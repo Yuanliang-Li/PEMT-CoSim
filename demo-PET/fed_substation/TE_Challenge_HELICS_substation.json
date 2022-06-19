@@ -1,0 +1,3560 @@
+{
+  "name": "sub1",
+  "period": 1,
+  "publications": [
+    {
+      "key": "clear_price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "unresponsive_mw",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "responsive_max_mw",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "responsive_c2",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "responsive_c1",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "responsive_deg",
+      "type": "integer",
+      "global": false
+    },
+    {
+      "key": "F0_house_A0_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A0_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A0_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A0_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A0/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A0/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A0/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A1_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A1_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A1_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A1_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A1/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A1/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A1/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A2_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A2_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A2_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A2_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A2/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A2/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A2/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A3_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A3_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A3_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A3_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A3/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A3/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A3/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A4_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A4_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A4_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A4_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A4/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A4/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A4/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A5_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A5_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A5_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A5_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A5/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A5/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A5/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A6_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A6_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A6_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A6_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A6/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A6/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A6/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A7_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A7_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A7_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A7_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A7/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A7/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A7/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A8_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A8_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A8_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A8_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A8/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A8/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A8/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A9_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A9_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A9_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A9_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A9/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A9/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A9/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A10_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A10_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A10_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A10_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A10/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A10/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A10/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A11_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A11_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A11_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A11_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A11/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A11/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A11/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A12_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A12_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A12_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A12_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A12/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A12/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A12/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A13_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A13_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A13_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A13_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A13/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A13/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A13/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A14_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A14_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A14_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A14_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A14/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A14/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A14/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A15_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A15_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A15_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A15_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A15/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A15/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A15/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A16_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A16_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A16_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A16_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A16/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A16/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A16/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A17_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A17_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A17_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A17_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A17/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A17/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A17/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A18_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A18_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A18_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A18_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A18/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A18/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A18/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A19_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A19_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A19_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A19_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A19/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A19/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A19/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A20_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A20_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A20_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A20_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A20/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A20/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A20/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A21_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A21_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A21_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A21_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A21/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A21/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A21/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A22_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A22_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A22_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A22_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A22/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A22/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A22/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A23_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A23_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A23_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A23_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A23/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A23/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A23/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A24_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A24_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A24_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A24_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A24/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A24/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A24/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A25_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A25_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A25_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A25_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A25/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A25/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A25/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A26_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A26_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A26_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A26_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A26/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A26/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A26/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A27_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A27_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A27_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A27_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A27/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A27/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A27/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A28_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A28_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A28_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A28_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A28/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A28/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A28/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A29_hvac/cooling_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A29_hvac/heating_setpoint",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A29_hvac/thermostat_deadband",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_house_A29_hvac/thermostat_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A29/bill_mode",
+      "type": "string",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A29/price",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "F0_tpm_A29/monthly_fee",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A0/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A0/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A1/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A1/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A2/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A2/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A3/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A3/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A4/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A4/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A5/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A5/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A6/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A6/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A7/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A7/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A8/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A8/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A9/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A9/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A10/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A10/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A11/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A11/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A12/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A12/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A13/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A13/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A14/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A14/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A15/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A15/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A16/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A16/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A17/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A17/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A18/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A18/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A19/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A19/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A20/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A20/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A21/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A21/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A22/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A22/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A23/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A23/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A24/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A24/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A25/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A25/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A26/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A26/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A27/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A27/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A28/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A28/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A29/P_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "solar_inv_F0_house_A29/Q_Out",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A0/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A0/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A0/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A0/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A1/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A1/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A1/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A1/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A2/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A2/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A2/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A2/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A3/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A3/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A3/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A3/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A4/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A4/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A4/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A4/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A5/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A5/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A5/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A5/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A6/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A6/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A6/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A6/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A7/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A7/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A7/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A7/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A8/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A8/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A8/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A8/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A9/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A9/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A9/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A9/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A10/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A10/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A10/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A10/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A11/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A11/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A11/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A11/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A12/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A12/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A12/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A12/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A13/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A13/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A13/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A13/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A14/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A14/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A14/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A14/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A15/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A15/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A15/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A15/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A16/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A16/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A16/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A16/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A17/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A17/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A17/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A17/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A18/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A18/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A18/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A18/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A19/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A19/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A19/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A19/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A20/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A20/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A20/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A20/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A21/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A21/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A21/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A21/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A22/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A22/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A22/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A22/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A23/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A23/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A23/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A23/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A24/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A24/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A24/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A24/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A25/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A25/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A25/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A25/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A26/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A26/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A26/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A26/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A27/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A27/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A27/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A27/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A28/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A28/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A28/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A28/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A29/charge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A29/charge_off_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A29/discharge_on_threshold",
+      "type": "double",
+      "global": false
+    },
+    {
+      "key": "batt_inv_F0_house_A29/discharge_off_threshold",
+      "type": "double",
+      "global": false
+    }
+  ],
+  "subscriptions": [
+    {
+      "key": "pypower/LMP_B7",
+      "type": "double"
+    },
+    {
+      "key": "gld1/distribution_load",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_triplex_node_A#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_house_A0#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A0#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A0#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A0#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A0#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A0#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A0#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A1#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A1#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A1#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A1#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A1#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A1#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A1#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A2#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A2#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A2#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A2#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A2#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A2#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A2#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A3#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A3#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A3#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A3#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A3#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A3#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A3#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A4#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A4#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A4#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A4#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A4#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A4#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A4#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A5#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A5#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A5#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A5#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A5#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A5#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A5#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A6#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A6#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A6#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A6#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A6#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A6#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A6#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A7#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A7#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A7#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A7#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A7#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A7#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A7#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A8#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A8#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A8#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A8#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A8#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A8#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A8#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A9#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A9#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A9#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A9#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A9#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A9#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A9#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A10#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A10#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A10#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A10#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A10#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A10#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A10#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A11#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A11#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A11#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A11#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A11#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A11#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A11#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A12#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A12#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A12#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A12#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A12#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A12#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A12#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A13#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A13#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A13#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A13#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A13#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A13#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A13#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A14#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A14#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A14#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A14#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A14#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A14#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A14#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A15#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A15#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A15#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A15#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A15#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A15#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A15#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A16#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A16#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A16#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A16#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A16#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A16#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A16#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A17#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A17#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A17#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A17#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A17#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A17#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A17#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A18#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A18#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A18#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A18#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A18#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A18#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A18#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A19#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A19#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A19#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A19#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A19#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A19#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A19#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A20#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A20#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A20#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A20#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A20#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A20#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A20#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A21#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A21#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A21#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A21#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A21#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A21#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A21#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A22#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A22#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A22#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A22#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A22#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A22#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A22#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A23#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A23#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A23#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A23#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A23#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A23#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A23#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A24#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A24#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A24#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A24#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A24#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A24#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A24#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A25#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A25#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A25#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A25#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A25#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A25#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A25#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A26#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A26#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A26#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A26#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A26#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A26#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A26#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A27#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A27#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A27#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A27#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A27#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A27#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A27#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A28#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A28#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A28#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A28#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A28#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A28#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A28#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A29#air_temperature",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A29#hvac_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A29#total_load",
+      "type": "double"
+    },
+    {
+      "key": "gld1/F0_house_A29#power_state",
+      "type": "string"
+    },
+    {
+      "key": "gld1/F0_tpm_A29#measured_voltage_1",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A29#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/F0_tpm_A29#measured_demand",
+      "type": "double"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A0#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A1#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A2#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A3#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A4#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A5#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A6#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A7#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A8#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A9#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A10#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A11#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A12#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A13#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A14#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A15#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A16#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A17#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A18#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A19#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A20#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A21#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A22#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A23#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A24#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A25#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A26#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A27#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A28#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/house_F0_tpm_A29#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A0#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A0#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A1#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A1#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A2#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A2#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A3#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A3#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A4#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A4#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A5#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A5#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A6#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A6#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A7#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A7#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A8#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A8#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A9#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A9#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A10#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A10#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A11#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A11#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A12#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A12#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A13#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A13#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A14#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A14#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A15#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A15#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A16#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A16#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A17#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A17#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A18#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A18#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A19#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A19#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A20#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A20#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A21#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A21#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A22#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A22#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A23#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A23#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A24#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A24#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A25#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A25#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A26#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A26#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A27#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A27#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A28#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A28#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_tpm_A29#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_tpm_A29#measured_power",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A0#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A0#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A0#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A1#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A1#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A1#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A2#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A2#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A2#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A3#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A3#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A3#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A4#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A4#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A4#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A5#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A5#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A5#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A6#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A6#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A6#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A7#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A7#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A7#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A8#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A8#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A8#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A9#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A9#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A9#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A10#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A10#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A10#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A11#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A11#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A11#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A12#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A12#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A12#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A13#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A13#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A13#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A14#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A14#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A14#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A15#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A15#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A15#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A16#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A16#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A16#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A17#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A17#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A17#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A18#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A18#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A18#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A19#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A19#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A19#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A20#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A20#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A20#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A21#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A21#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A21#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A22#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A22#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A22#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A23#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A23#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A23#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A24#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A24#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A24#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A25#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A25#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A25#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A26#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A26#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A26#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A27#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A27#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A27#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A28#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A28#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A28#state_of_charge",
+      "type": "double"
+    },
+    {
+      "key": "gld1/solar_F0_house_A29#V_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/solar_F0_house_A29#I_Out",
+      "type": "complex"
+    },
+    {
+      "key": "gld1/batt_F0_house_A29#state_of_charge",
+      "type": "double"
+    }
+  ]
+}

@@ -1,0 +1,1351 @@
+{
+  "bulkpower_bus": "TBD",
+  "FedName": "gld1",
+  "transformer_MVA": 12.0,
+  "feeders": {
+    "network_node": {
+      "house_count": 60,
+      "inverter_count": 0,
+      "base_feeder": ""
+    }
+  },
+  "VPPs": {
+    "VPP_0": {
+      "VPP_meter": "F0_meter"
+    }
+  },
+  "billingmeters": {
+    "Eplus_meter": {
+      "feeder_id": "network_node",
+      "phases": "ABCN",
+      "vll": 479.778073696579,
+      "vln": 277.0,
+      "children": []
+    },
+    "F0_tpm_rt_A0": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A0"
+      ]
+    },
+    "F0_tpm_rt_A1": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A1"
+      ]
+    },
+    "F0_tpm_rt_A2": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A2"
+      ]
+    },
+    "F0_tpm_rt_A3": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A3"
+      ]
+    },
+    "F0_tpm_rt_A4": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A4"
+      ]
+    },
+    "F0_tpm_rt_A5": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A5"
+      ]
+    },
+    "F0_tpm_rt_A6": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A6"
+      ]
+    },
+    "F0_tpm_rt_A7": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A7"
+      ]
+    },
+    "F0_tpm_rt_A8": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A8"
+      ]
+    },
+    "F0_tpm_rt_A9": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A9"
+      ]
+    },
+    "F0_tpm_rt_A10": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A10"
+      ]
+    },
+    "F0_tpm_rt_A11": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A11"
+      ]
+    },
+    "F0_tpm_rt_A12": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A12"
+      ]
+    },
+    "F0_tpm_rt_A13": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A13"
+      ]
+    },
+    "F0_tpm_rt_A14": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A14"
+      ]
+    },
+    "F0_tpm_rt_A15": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A15"
+      ]
+    },
+    "F0_tpm_rt_A16": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A16"
+      ]
+    },
+    "F0_tpm_rt_A17": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A17"
+      ]
+    },
+    "F0_tpm_rt_A18": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A18"
+      ]
+    },
+    "F0_tpm_rt_A19": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_A19"
+      ]
+    },
+    "F0_tpm_rt_B0": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B0"
+      ]
+    },
+    "F0_tpm_rt_B1": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B1"
+      ]
+    },
+    "F0_tpm_rt_B2": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B2"
+      ]
+    },
+    "F0_tpm_rt_B3": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B3"
+      ]
+    },
+    "F0_tpm_rt_B4": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B4"
+      ]
+    },
+    "F0_tpm_rt_B5": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B5"
+      ]
+    },
+    "F0_tpm_rt_B6": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B6"
+      ]
+    },
+    "F0_tpm_rt_B7": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B7"
+      ]
+    },
+    "F0_tpm_rt_B8": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B8"
+      ]
+    },
+    "F0_tpm_rt_B9": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B9"
+      ]
+    },
+    "F0_tpm_rt_B10": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B10"
+      ]
+    },
+    "F0_tpm_rt_B11": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B11"
+      ]
+    },
+    "F0_tpm_rt_B12": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B12"
+      ]
+    },
+    "F0_tpm_rt_B13": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B13"
+      ]
+    },
+    "F0_tpm_rt_B14": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B14"
+      ]
+    },
+    "F0_tpm_rt_B15": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B15"
+      ]
+    },
+    "F0_tpm_rt_B16": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B16"
+      ]
+    },
+    "F0_tpm_rt_B17": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B17"
+      ]
+    },
+    "F0_tpm_rt_B18": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B18"
+      ]
+    },
+    "F0_tpm_rt_B19": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_B19"
+      ]
+    },
+    "F0_tpm_rt_C0": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C0"
+      ]
+    },
+    "F0_tpm_rt_C1": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C1"
+      ]
+    },
+    "F0_tpm_rt_C2": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C2"
+      ]
+    },
+    "F0_tpm_rt_C3": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C3"
+      ]
+    },
+    "F0_tpm_rt_C4": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C4"
+      ]
+    },
+    "F0_tpm_rt_C5": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C5"
+      ]
+    },
+    "F0_tpm_rt_C6": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C6"
+      ]
+    },
+    "F0_tpm_rt_C7": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C7"
+      ]
+    },
+    "F0_tpm_rt_C8": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C8"
+      ]
+    },
+    "F0_tpm_rt_C9": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C9"
+      ]
+    },
+    "F0_tpm_rt_C10": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C10"
+      ]
+    },
+    "F0_tpm_rt_C11": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C11"
+      ]
+    },
+    "F0_tpm_rt_C12": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C12"
+      ]
+    },
+    "F0_tpm_rt_C13": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C13"
+      ]
+    },
+    "F0_tpm_rt_C14": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C14"
+      ]
+    },
+    "F0_tpm_rt_C15": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C15"
+      ]
+    },
+    "F0_tpm_rt_C16": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C16"
+      ]
+    },
+    "F0_tpm_rt_C17": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C17"
+      ]
+    },
+    "F0_tpm_rt_C18": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C18"
+      ]
+    },
+    "F0_tpm_rt_C19": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F0_house_C19"
+      ]
+    }
+  },
+  "houses": {
+    "F0_house_A0": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A0",
+      "sqft": 1437.464,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A0"
+    },
+    "F0_house_A1": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A1",
+      "sqft": 711.294,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A1"
+    },
+    "F0_house_A2": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A2",
+      "sqft": 1352.004,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A2"
+    },
+    "F0_house_A3": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A3",
+      "sqft": 2698.092,
+      "stories": 1,
+      "doors": 3,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A3"
+    },
+    "F0_house_A4": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A4",
+      "sqft": 1197.318,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A4"
+    },
+    "F0_house_A5": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A5",
+      "sqft": 3204.44,
+      "stories": 1,
+      "doors": 4,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A5"
+    },
+    "F0_house_A6": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A6",
+      "sqft": 815.9879999999999,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A6"
+    },
+    "F0_house_A7": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A7",
+      "sqft": 1273.821,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A7"
+    },
+    "F0_house_A8": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A8",
+      "sqft": 858.643,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A8"
+    },
+    "F0_house_A9": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A9",
+      "sqft": 1420.513,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A9"
+    },
+    "F0_house_A10": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A10",
+      "sqft": 1494.091,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A10"
+    },
+    "F0_house_A11": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A11",
+      "sqft": 1283.561,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A11"
+    },
+    "F0_house_A12": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A12",
+      "sqft": 1207.118,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A12"
+    },
+    "F0_house_A13": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A13",
+      "sqft": 1217.1879999999999,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A13"
+    },
+    "F0_house_A14": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A14",
+      "sqft": 741.282,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A14"
+    },
+    "F0_house_A15": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A15",
+      "sqft": 1134.938,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A15"
+    },
+    "F0_house_A16": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A16",
+      "sqft": 2983.212,
+      "stories": 1,
+      "doors": 3,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A16"
+    },
+    "F0_house_A17": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A17",
+      "sqft": 935.616,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A17"
+    },
+    "F0_house_A18": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A18",
+      "sqft": 1459.701,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A18"
+    },
+    "F0_house_A19": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_A19",
+      "sqft": 599.835,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_A19"
+    },
+    "F0_house_B0": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B0",
+      "sqft": 2506.586,
+      "stories": 1,
+      "doors": 3,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B0"
+    },
+    "F0_house_B1": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B1",
+      "sqft": 2697.572,
+      "stories": 1,
+      "doors": 3,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B1"
+    },
+    "F0_house_B2": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B2",
+      "sqft": 1215.4579999999999,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B2"
+    },
+    "F0_house_B3": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B3",
+      "sqft": 1278.961,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B3"
+    },
+    "F0_house_B4": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B4",
+      "sqft": 864.029,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B4"
+    },
+    "F0_house_B5": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B5",
+      "sqft": 1367.234,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B5"
+    },
+    "F0_house_B6": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B6",
+      "sqft": 1267.931,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B6"
+    },
+    "F0_house_B7": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B7",
+      "sqft": 2988.592,
+      "stories": 1,
+      "doors": 3,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B7"
+    },
+    "F0_house_B8": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B8",
+      "sqft": 1285.661,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B8"
+    },
+    "F0_house_B9": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B9",
+      "sqft": 687.3739999999999,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B9"
+    },
+    "F0_house_B10": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B10",
+      "sqft": 785.478,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B10"
+    },
+    "F0_house_B11": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B11",
+      "sqft": 1457.771,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B11"
+    },
+    "F0_house_B12": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B12",
+      "sqft": 628.766,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B12"
+    },
+    "F0_house_B13": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B13",
+      "sqft": 855.4630000000001,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B13"
+    },
+    "F0_house_B14": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B14",
+      "sqft": 2955.562,
+      "stories": 1,
+      "doors": 3,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B14"
+    },
+    "F0_house_B15": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B15",
+      "sqft": 2963.642,
+      "stories": 1,
+      "doors": 3,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B15"
+    },
+    "F0_house_B16": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B16",
+      "sqft": 781.2479999999999,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B16"
+    },
+    "F0_house_B17": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B17",
+      "sqft": 1090.635,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B17"
+    },
+    "F0_house_B18": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B18",
+      "sqft": 864.4789999999999,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B18"
+    },
+    "F0_house_B19": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_B19",
+      "sqft": 1362.334,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_B19"
+    },
+    "F0_house_C0": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C0",
+      "sqft": 868.283,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C0"
+    },
+    "F0_house_C1": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C1",
+      "sqft": 1186.358,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C1"
+    },
+    "F0_house_C2": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C2",
+      "sqft": 1322.091,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C2"
+    },
+    "F0_house_C3": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C3",
+      "sqft": 1178.148,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C3"
+    },
+    "F0_house_C4": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C4",
+      "sqft": 630.4459999999999,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C4"
+    },
+    "F0_house_C5": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C5",
+      "sqft": 745.199,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C5"
+    },
+    "F0_house_C6": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C6",
+      "sqft": 640.486,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C6"
+    },
+    "F0_house_C7": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C7",
+      "sqft": 699.564,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C7"
+    },
+    "F0_house_C8": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C8",
+      "sqft": 2497.6059999999998,
+      "stories": 1,
+      "doors": 3,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C8"
+    },
+    "F0_house_C9": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C9",
+      "sqft": 751.199,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C9"
+    },
+    "F0_house_C10": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C10",
+      "sqft": 1062.688,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C10"
+    },
+    "F0_house_C11": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C11",
+      "sqft": 858.329,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C11"
+    },
+    "F0_house_C12": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C12",
+      "sqft": 3385.724,
+      "stories": 1,
+      "doors": 4,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C12"
+    },
+    "F0_house_C13": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C13",
+      "sqft": 802.588,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C13"
+    },
+    "F0_house_C14": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C14",
+      "sqft": 688.134,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C14"
+    },
+    "F0_house_C15": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C15",
+      "sqft": 749.919,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C15"
+    },
+    "F0_house_C16": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C16",
+      "sqft": 1471.971,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C16"
+    },
+    "F0_house_C17": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C17",
+      "sqft": 836.499,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C17"
+    },
+    "F0_house_C18": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C18",
+      "sqft": 1440.263,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C18"
+    },
+    "F0_house_C19": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F0_tpm_rt_C19",
+      "sqft": 2939.652,
+      "stories": 1,
+      "doors": 3,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "VPP_0",
+      "parent": "F0_tpm_rt_C19"
+    }
+  },
+  "inverters": {},
+  "capacitors": {},
+  "regulators": {}
+}

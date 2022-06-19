@@ -1,0 +1,16 @@
+object transformer {
+	name F{vpp_idx}_center_tap_transformer_{phase};
+	phases S{phase};
+	from transformer_meter;
+	to F{vpp_idx}_triplex_node_{phase};
+	configuration default_transformer_{phase};
+}
+
+object triplex_meter {
+	name F{vpp_idx}_triplex_node_{phase};
+	phases S{phase};
+	nominal_voltage 120;
+    groupid VPP_Meter;
+}
+
+

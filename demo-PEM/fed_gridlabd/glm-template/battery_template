@@ -1,0 +1,42 @@
+
+object triplex_meter {
+	name batt_F{vpp_idx}_tpm_rt_{phase}{house_idx};
+	parent F{vpp_idx}_tpm_rt_{phase}{house_idx};
+	phases {phase}S;
+	nominal_voltage 120;
+	groupid inverter_meter;
+	
+	object inverter {
+		name batt_inv_F{vpp_idx}_house_{phase}{house_idx};
+		phases {phase}S;
+		inverter_type FOUR_QUADRANT;
+		four_quadrant_control_mode {battery_mode};
+        sense_object F{vpp_idx}_tpm_rt_{phase}{house_idx};
+		generator_status ONLINE;
+        inverter_efficiency 0.90;
+		rated_power 3000.0;	
+	    charge_on_threshold 1.5 kW;
+	    charge_off_threshold 1.7 kW;
+	    discharge_off_threshold 2 kW;
+	    discharge_on_threshold 3 kW;
+	    max_discharge_rate 3 kW;
+	    max_charge_rate 3 kW;
+	    charge_lockout_time 1;
+	    discharge_lockout_time 1;
+		
+        object battery {
+	        name batt_F{vpp_idx}_house_{phase}{house_idx};
+	        use_internal_battery_model TRUE;
+	        battery_type LI_ION;
+	        rated_power 3 kW;
+	        nominal_voltage 120;
+	        battery_capacity {battery_capacity} kWh;
+	        round_trip_efficiency 0.81;
+	        state_of_charge {state_of_charge};
+	        generator_mode SUPPLY_DRIVEN;
+        };
+    object metrics_collector {
+    	interval 300;
+    };
+	};
+}

@@ -1,0 +1,59 @@
+
+object overhead_line {
+  length 10;
+  name F{vpp_idx}_overhead_line;
+  phases ABCN;
+  configuration line_configuration:601;
+  to F{vpp_idx}_meter;
+  from transformer_meter;
+}
+
+object meter {
+	name F{vpp_idx}_meter;
+	phases ABCN;
+	nominal_voltage 7200;
+    groupid VPP_Meter;
+}
+
+object transformer {
+	name F{vpp_idx}_center_tap_transformer_A;
+	phases SA;
+	from F{vpp_idx}_meter;
+	to F{vpp_idx}_triplex_node_A;
+	configuration default_transformer_A;
+}
+
+object transformer {
+	name F{vpp_idx}_center_tap_transformer_B;
+	phases SB;
+	from F{vpp_idx}_meter;
+	to F{vpp_idx}_triplex_node_B;
+	configuration default_transformer_B;
+}
+
+object transformer {
+	name F{vpp_idx}_center_tap_transformer_C;
+	phases SC;
+	from F{vpp_idx}_meter;
+	to F{vpp_idx}_triplex_node_C;
+	configuration default_transformer_C;
+}
+
+object triplex_meter {
+	name F{vpp_idx}_triplex_node_A;
+	phases SA;
+	nominal_voltage 120;
+}
+
+object triplex_meter {
+	name F{vpp_idx}_triplex_node_B;
+	phases SB;
+	nominal_voltage 120;
+}
+
+object triplex_meter {
+	name F{vpp_idx}_triplex_node_C;
+	phases SC;
+	nominal_voltage 120;
+}
+

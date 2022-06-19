@@ -1,0 +1,10 @@
+#!/bin/sh
+
+xrdb $HOME/.Xresources
+xsetroot -solid grey
+
+exec dbus-launch
+
+#for an xfce desktop
+# exec ck-launch-session startxfce4
+startxfce4 &
