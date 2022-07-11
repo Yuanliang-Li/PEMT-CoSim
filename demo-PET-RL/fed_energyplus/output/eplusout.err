@@ -1,0 +1,43 @@
+Program Version,EnergyPlus, Version 9.3.0-60e3a1f2d5 (No OpenGL), YMD=2022.07.11 15:26,
+   ** Warning ** Output:PreprocessorMessage="Conversion 7.2 => 8.0" has the following Warning conditions:
+   **   ~~~   ** Boiler:HotWater="HeatSys1 Boiler"
+   **   ~~~   ** defaults for this object have changed. Results may be different than previous. See
+   **   ~~~   ** InputOutputReference document for details.
+   ** Warning ** Sizing:Parameters: note Timesteps in Averaging Window entered value=[6] is less than 1 hour (i.e., 12 timesteps).
+   ************* Beginning Zone Sizing Calculations
+   ** Warning ** Weather file location will be used rather than entered (IDF) Location object.
+   **   ~~~   ** ..Location object=USA IL-CHICAGO-OHARE
+   **   ~~~   ** ..Weather File Location=Tucson International Ap AZ USA TMY3 WMO#=722740
+   **   ~~~   ** ..due to location differences, Latitude difference=[9.64] degrees, Longitude difference=[23.20] degrees.
+   **   ~~~   ** ..Time Zone difference=[1.0] hour(s), Elevation difference=[308.95] percent, [587.00] meters.
+   ** Warning ** CheckUsedConstructions: There are 2 nominally unused constructions in input.
+   **   ~~~   ** For explicit details on each unused construction, use Output:Diagnostics,DisplayExtraWarnings;
+   ************* Beginning System Sizing Calculations
+   ************* Beginning Plant Sizing Calculations
+   ** Warning ** CalcTwoSpeedDXCoilStandardRating: Did not find an appropriate fan associated with DX coil named = "PSZ-AC_2:7_COOLC DXCOIL". Standard Ratings will not be calculated.
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ** Warning ** In zone BATH_ZN_1_FLR_1 there is unbalanced air flow. Load due to induced outdoor air is neglected.
+   **   ~~~   **  Environment=RUNPERIOD 1, at Simulation time=07/01 05:00 - 05:05
+   **   ~~~   **   Flows [m3/s]: Inlets: 0.161760  Unbalanced exhausts: 0.283200  Returns: 0.000000
+   **   ~~~   **   Infiltration: 1.223924E-002  Zone Ventilation: 0.000000  Mixing (incoming): 0.000000
+   **   ~~~   **   Imbalance (excess outflow): 0.109200  Total system OA flow (for all airloops serving this zone): 5.392604
+   **   ~~~   **   This error will only be reported once per zone.
+   ************* Simulation Error Summary *************
+   *************
+   ************* ===== Final Error Summary =====
+   ************* The following error categories occurred.  Consider correcting or noting.
+   ************* Nominally Unused Constructions
+   ************* ..The nominally unused constructions warning is provided to alert you to potential conditions that can cause
+   ************* ..extra time during simulation. Each construction is calculated by the algorithm indicated in the HeatBalanceAlgorithm
+   ************* ..object. You may remove the constructions indicated (when you use the DisplayExtraWarnings option).
+   *************
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 3 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 6 Warning; 0 Severe Errors; Elapsed Time=00hr 43min 35.72sec

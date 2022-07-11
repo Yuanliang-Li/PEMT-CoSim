@@ -1,0 +1,236 @@
+EnergyPlus Starting
+EnergyPlus, Version 9.3.0-60e3a1f2d5 (No OpenGL), YMD=2022.07.11 15:26
+Initializing Response Factors
+Calculating CTFs for "STEEL FRAME NON-RES EXT WALL", Construction # 2
+Calculating CTFs for "IEAD NON-RES ROOF", Construction # 3
+Calculating CTFs for "IEAD NON-RES ROOF", Construction # 3
+Calculating CTFs for "EXT-SLAB", Construction # 4
+Calculating CTFs for "INT-WALLS", Construction # 5
+Calculating CTFs for "INTERIORFURNISHINGS", Construction # 9
+Initializing Window Optical Properties
+Initializing Solar Calculations
+Allocate Solar Module Arrays
+Initializing Zone and Enclosure Report Variables
+Initializing Surface (Shading) Report Variables
+Determining Shadowing Combinations
+Computing Window Shade Absorption Factors
+Proceeding with Initializing Solar Calculations
+Initializing Surfaces
+Initializing Outdoor environment for Surfaces
+Setting up Surface Reporting Variables
+Initializing Temperature and Flux Histories
+Initializing Window Shading
+Computing Interior Absorption Factors
+Computing Interior Diffuse Solar Absorption Factors
+Computing Interior Diffuse Solar Exchange through Interzone Windows
+Initializing Solar Heat Gains
+Initializing Internal Heat Gains
+Initializing Interior Solar Distribution
+Initializing Interior Convection Coefficients
+Gathering Information for Predefined Reporting
+Completed Initializing Surface Heat Balance
+Calculate Outside Surface Heat Balance
+Calculate Inside Surface Heat Balance
+Calculate Air Heat Balance
+Initializing HVAC
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #1 CHICAGO ANN HTG 99.6% CONDNS DB
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Warming up
+Performing Zone Sizing Simulation
+...for Sizing Period: #2 CHICAGO ANN CLG .4% CONDNS WB=>MDB
+Calculating System sizing
+...for Sizing Period: #1 CHICAGO ANN HTG 99.6% CONDNS DB
+Calculating System sizing
+...for Sizing Period: #2 CHICAGO ANN CLG .4% CONDNS WB=>MDB
+Adjusting Air System Sizing
+Adjusting Standard 62.1 Ventilation Sizing
+Initializing Simulation
+Reporting Surfaces
+Beginning Primary Simulation
+Initializing New Environment Parameters
+Warming up {1}
+Instantiating Framework for Network Co-Simulation
+ExternalInterface initializes. (HELICS)
+HELICS: * (Heating Setpoint)
+HELICS: * (Heating Current)
+HELICS: * (Cooling Setpoint)
+HELICS: * (Cooling Current)
+HELICS: PSZ-AC_2:7_HEATC (Heating Coil Electric Energy)
+HELICS: PSZ-AC_2:5_HEATC (Heating Coil Electric Energy)
+HELICS: PSZ-AC_1:6_HEATC (Heating Coil Electric Energy)
+HELICS: VAV_POD_1_COOLC DXCOIL (Cooling Coil Electric Energy)
+HELICS: VAV_OTHER_COOLC DXCOIL (Cooling Coil Electric Energy)
+HELICS: VAV_POD_3_COOLC DXCOIL (Cooling Coil Electric Energy)
+HELICS: VAV_POD_2_COOLC DXCOIL (Cooling Coil Electric Energy)
+HELICS: PSZ-AC_2:7_COOLC DXCOIL (Cooling Coil Electric Energy)
+HELICS: PSZ-AC_2:5_COOLC DXCOIL (Cooling Coil Electric Energy)
+HELICS: PSZ-AC_1:6_COOLC DXCOIL (Cooling Coil Electric Energy)
+HELICS: H2_NOM (Schedule Value)
+HELICS: H1_NOM (Schedule Value)
+HELICS: C2_NOM (Schedule Value)
+HELICS: C1_NOM (Schedule Value)
+HELICS: OFFICES_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: MULT_CLASS_2_POD_2_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: MULT_CLASS_1_POD_1_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: MECH_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: MAIN_CORRIDOR_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: LOBBY_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: LIBRARY_MEDIA_CENTER_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: KITCHEN_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: MULT_CLASS_1_POD_3_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: GYM_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: MULT_CLASS_2_POD_3_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: MULT_CLASS_1_POD_2_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: CORRIDOR_POD_3_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: CORRIDOR_POD_1_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: CORNER_CLASS_2_POD_3_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: MULT_CLASS_2_POD_1_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: CORNER_CLASS_2_POD_2_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: CORNER_CLASS_2_POD_1_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: CORNER_CLASS_1_POD_3_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: CORNER_CLASS_1_POD_2_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: CORNER_CLASS_1_POD_1_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: COMPUTER_CLASS_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: CAFETERIA_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: CORRIDOR_POD_2_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: BATH_ZN_1_FLR_1 (Zone Mean Air Temperature)
+HELICS: OFFICES_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: MULT_CLASS_2_POD_2_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: MULT_CLASS_1_POD_1_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: MAIN_CORRIDOR_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: LIBRARY_MEDIA_CENTER_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: KITCHEN_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: MULT_CLASS_1_POD_3_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: GYM_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: MULT_CLASS_2_POD_3_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: MULT_CLASS_1_POD_2_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: CORRIDOR_POD_3_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: CORRIDOR_POD_1_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: CORNER_CLASS_2_POD_3_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: MULT_CLASS_2_POD_1_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: CORNER_CLASS_2_POD_2_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: CORNER_CLASS_2_POD_1_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: CORNER_CLASS_1_POD_3_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: CORNER_CLASS_1_POD_2_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: CORNER_CLASS_1_POD_1_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: COMPUTER_CLASS_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: CAFETERIA_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: CORRIDOR_POD_2_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: BATH_ZN_1_FLR_1 (Zone People Occupant Count)
+HELICS: OFFICES_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: MULT_CLASS_2_POD_2_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: MULT_CLASS_1_POD_1_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: MECH_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: MAIN_CORRIDOR_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: LOBBY_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: LIBRARY_MEDIA_CENTER_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: KITCHEN_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: MULT_CLASS_1_POD_3_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: GYM_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: MULT_CLASS_2_POD_3_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: MULT_CLASS_1_POD_2_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: CORRIDOR_POD_3_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: CORRIDOR_POD_1_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: CORNER_CLASS_2_POD_3_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: MULT_CLASS_2_POD_1_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: CORNER_CLASS_2_POD_2_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: CORNER_CLASS_2_POD_1_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: CORNER_CLASS_1_POD_3_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: CORNER_CLASS_1_POD_2_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: CORNER_CLASS_1_POD_1_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: COMPUTER_CLASS_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: CAFETERIA_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: CORRIDOR_POD_2_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: BATH_ZN_1_FLR_1 (Zone Air System Sensible Heating Energy)
+HELICS: OFFICES_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: MULT_CLASS_2_POD_2_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: MULT_CLASS_1_POD_1_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: MECH_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: MAIN_CORRIDOR_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: LOBBY_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: LIBRARY_MEDIA_CENTER_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: KITCHEN_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: MULT_CLASS_1_POD_3_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: GYM_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: MULT_CLASS_2_POD_3_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: MULT_CLASS_1_POD_2_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: CORRIDOR_POD_3_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: CORRIDOR_POD_1_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: CORNER_CLASS_2_POD_3_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: MULT_CLASS_2_POD_1_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: CORNER_CLASS_2_POD_2_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: CORNER_CLASS_2_POD_1_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: CORNER_CLASS_1_POD_3_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: CORNER_CLASS_1_POD_2_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: CORNER_CLASS_1_POD_1_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: COMPUTER_CLASS_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: CAFETERIA_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: CORRIDOR_POD_2_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: BATH_ZN_1_FLR_1 (Zone Air System Sensible Cooling Energy)
+HELICS: Environment (Site Outdoor Air Drybulb Temperature)
+HELICS: FACILITY (Facility Thermal Comfort ASHRAE 55 Simple Model Summer or Winter Clothes Not Comfortable Time)
+HELICS: WHOLE BUILDING (Facility Total HVAC Electric Demand Power)
+HELICS: WHOLE BUILDING (Facility Total Electric Demand Power)
+HELICS: * (Occupant Count)
+HELICS: EMS (Occupant Count)
+HELICS: * (Heating Volume)
+HELICS: EMS (Heating Volume)
+HELICS: * (Cooling Volume)
+HELICS: EMS (Cooling Volume)
+HELICS: * (Heating Power State)
+HELICS: EMS (Heating Power State)
+HELICS: * (Cooling Power State)
+HELICS: EMS (Cooling Power State)
+HELICS: * (Heating Current Temperature)
+HELICS: EMS (Heating Current Temperature)
+HELICS: * (Cooling Current Temperature)
+HELICS: EMS (Cooling Current Temperature)
+HELICS: * (Heating Setpoint Temperature)
+HELICS: EMS (Heating Setpoint Temperature)
+HELICS: * (Indoor Air Temperature)
+HELICS: EMS (Indoor Air Temperature)
+HELICS: * (Cooling Setpoint Temperature)
+HELICS: EMS (Cooling Setpoint Temperature)
+HELICS: * (Heating Schedule Temperature)
+HELICS: EMS (Heating Schedule Temperature)
+HELICS: * (Cooling Schedule Temperature)
+HELICS: EMS (Cooling Schedule Temperature)
+HELICS: * (Heating Controlled Load)
+HELICS: EMS (Heating Controlled Load)
+HELICS: * (Cooling Controlled Load)
+HELICS: EMS (Cooling Controlled Load)
+HELICS: ExternalInterface:Variable
+HELICS: Variable: COOLING_SETPOINT_DELTA
+HELICS: Variable: HEATING_SETPOINT_DELTA
+Number of outputs in ExternalInterface = 148
+Number of inputs  in ExternalInterface = 2
+HELICS enter intializing mode
+Warming up {2}
+Warming up {3}
+Warming up {4}
+Warming up {5}
+Warming up {6}
+Starting Simulation at 07/01/2013 for RUNPERIOD 1
+HELICS enter executing mode
+ExternalInterface starts first data exchange. (HELICS)
+Writing final SQL reports
+ ReadVarsESO program starting.
+ ReadVars Run Time=00hr 00min  0.08sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO program starting.
+ Requested ESO file=output/eplusout.mtr
+ does not exist.  ReadVarsESO program terminated.
+ ReadVarsESO program terminated.
+EnergyPlus Run Time=00hr 43min 35.72sec
+EnergyPlus Completed Successfully.
