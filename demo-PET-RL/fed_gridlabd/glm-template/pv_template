@@ -1,0 +1,38 @@
+
+object triplex_meter {
+	name solar_F{vpp_idx}_tpm_{phase}{house_idx};
+	parent F{vpp_idx}_tpm_{phase}{house_idx};
+	phases {phase}S;
+	nominal_voltage 120;
+	groupid inverter_meter;
+}
+	
+object inverter {
+	name solar_inv_F{vpp_idx}_house_{phase}{house_idx};
+    parent solar_F{vpp_idx}_tpm_{phase}{house_idx};
+	phases {phase}S;
+	inverter_type FOUR_QUADRANT;
+	power_factor 1;
+	// use_multipoint_efficiency TRUE;
+	inverter_manufacturer XANTREX;
+	maximum_dc_power {maximum_dc_power}; 
+	four_quadrant_control_mode CONSTANT_PQ;
+	generator_status ONLINE;
+	rated_power {rated_power_inv};	
+	inverter_efficiency 0.90;
+	Q_Out 0;
+    P_Out 0;
+	object solar {
+		name solar_F{vpp_idx}_house_{phase}{house_idx};
+		generator_mode SUPPLY_DRIVEN;
+		generator_status ONLINE;
+		panel_type SINGLE_CRYSTAL_SILICON;
+		orientation FIXED_AXIS; 
+		rated_power {rated_power_solar};
+	};
+    object metrics_collector {
+    	interval 300;
+    };
+}
+
+

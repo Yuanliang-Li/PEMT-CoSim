@@ -91,9 +91,12 @@ Denote "(c)" as configuration file, "(o)" as output file.
 * fed_substation : folder for substation federate
    * _launch_substation.py_ : python script for launching the substation federate. Moreover, in this example, it is also the main federate that can launch other federates at the same time.
    * _federate_helper.py_ : some functions for managing the federate, managing co-simulation, and data recording
-   * _my_auction.py_ : user-defined auction class for emulating the market
+   * _my_auction.py_ : user-defined double-auction class for the market
    * _PEM_Controller.py_ : define classes for PEM controller. 
    * _PEM_Coordinator.py_ : define classes for PEM coordinator. 
+   * _PET_Prosumer.py_ : define classes for PET prosumers.
+   * _env.py_ : define the reinforcement learning environment for prosumers.
+   * _ddpg.py_ : deep determinstic policy gradient algorithm for reinforcement learnig agents.
    * (c) _TE_Challenge_agent_dict.json_ : define the market agent and HVAC controller agents
    * (c) _TE_Challenge_HELICS_substation.json_ : define HELICS message flows for substation federate
    * (o) _data_: a folder that save all data for post-processing
@@ -110,7 +113,7 @@ Denote "(c)" as configuration file, "(o)" as output file.
 
 
 ## 4. Run Cases
-### Run PEM example via prompt
+### 4.1 Run PEM example via prompt
 In the docker container, type:
 ```
 cd /PEMT-CoSim/demo-PEM
@@ -127,7 +130,7 @@ python3 plotFig.py
 <center>PEM results</center>
 
 
-### Run PET example via prompt
+### 4.2 Run PET example (without RL) via prompt
 In the docker container, type:
 ```
 cd /PEMT-CoSim/demo-PET
@@ -144,3 +147,21 @@ python3 plotFig.py
 ![image](./doc_images/result-PET2.png)
 <center>PET results</center>
 
+### 4.3 Run PET-RL example (with RL) via prompt
+In this case, we apply RL to optimize the biding price for prosumers including the biding prices for seller and buyer, respectively. The first 48 hours are used to train the RL agents. After 48 hours, prsoumers use the trained policy to generate biding prices. 
+
+In the docker container, type:
+```
+cd /PEMT-CoSim/demo-PET-RL
+python3 generate_case.py 
+cd ./fed_substation/
+python3 launch_substation.py
+```
+To visualize the experimental results after the simulation
+```
+cd /PEMT-CoSim/
+python3 plotFig.py
+```
+![image](./doc_images/result-PET-RL.png)
+![image](./doc_images/result-PET-RL-2.png)
+<center>PET-RL results</center>
