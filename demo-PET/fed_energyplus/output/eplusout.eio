@@ -1,4 +1,4 @@
-Program Version,EnergyPlus, Version 9.3.0-60e3a1f2d5 (No OpenGL), YMD=2022.06.18 15:47
+Program Version,EnergyPlus, Version 9.3.0-60e3a1f2d5 (No OpenGL), YMD=2022.07.11 18:46
 ! <Version>, Version ID
  Version, 9.3
 ! <Timesteps per Hour>, #TimeSteps, Minutes per TimeStep {minutes}
@@ -841,58 +841,3 @@ Water Heating Coil Capacity Information,Coil:Heating:Water,VAV_POD_2_HEATC,29628
  Component Sizing Information, Coil:Cooling:DX:TwoSpeed, VAV_POD_3_COOLC DXCOIL, Design Size Low Speed Rated Air Flow Rate [m3/s], 1.30645
  Component Sizing Information, Coil:Cooling:DX:TwoSpeed, VAV_POD_3_COOLC DXCOIL, Design Size Low Speed Gross Rated Total Cooling Capacity [W], 32442.19480
  Component Sizing Information, Coil:Cooling:DX:TwoSpeed, VAV_POD_3_COOLC DXCOIL, Design Size Low Speed Gross Rated Sensible Heat Ratio, 0.69808
- VAV DX Cooling Coil Standard Rating Information, Coil:Cooling:DX:TwoSpeed,VAV_POD_3_COOLC DXCOIL,N/A,N/A,94160.30,321288.29,11.81,2.84,3.30,3.74,3.83,9.69,11.27,12.74,13.06,4.1313,3.3129,2.2222,0.9680,
- Component Sizing Information, Coil:Heating:Water, VAV_POD_3_HEATC, Design Size Rated Capacity [W], 48368.94432
- Component Sizing Information, Coil:Heating:Water, VAV_POD_3_HEATC, Design Size Maximum Water Flow Rate [m3/s], 1.05903E-003
- Component Sizing Information, Coil:Heating:Water, VAV_POD_3_HEATC, Design Size U-Factor Times Area Value [W/K], 635.45695
-Water Heating Coil Capacity Information,Coil:Heating:Water,VAV_POD_3_HEATC,30965.99
- Component Sizing Information, Fan:VariableVolume, VAV_POD_3_FAN, Design Size Maximum Flow Rate [m3/s], 3.91973
- Component Sizing Information, Controller:WaterCoil, VAV_POD_3_HEATC_CONTROLLER, Maximum Actuated Flow [m3/s], 1.05903E-003
-Water Heater Information,WaterHeater:Mixed,SWHSYS1 WATER HEATER,1.0000,845000.0,0.683,0.5774
- Component Sizing Information, PlantLoop, HEATSYS1, Maximum Loop Flow Rate [m3/s], 1.42144E-002
- Component Sizing Information, PlantLoop, HEATSYS1, Plant Loop Volume [m3], 1.70573
- Component Sizing Information, Pump:VariableSpeed, HEATSYS1 PUMP, Design Flow Rate [m3/s], 1.42144E-002
- Component Sizing Information, Pump:VariableSpeed, HEATSYS1 PUMP, Design Power Consumption [W], 3631.60733
- Component Sizing Information, Boiler:HotWater, HEATSYS1 BOILER, Design Size Nominal Capacity [W], 649217.29833
- Component Sizing Information, Boiler:HotWater, HEATSYS1 BOILER, Design Size Design Water Flow Rate [m3/s], 1.42144E-002
- Component Sizing Information, PlantLoop, SWHSYS1, Maximum Loop Flow Rate [m3/s], 1.64400E-004
- Component Sizing Information, PlantLoop, SWHSYS1, Plant Loop Volume [m3], 1.97280E-002
- Component Sizing Information, Pump:VariableSpeed, SWHSYS1 PUMP, Design Flow Rate [m3/s], 1.64400E-004
- Component Sizing Information, Pump:VariableSpeed, SWHSYS1 PUMP, Design Power Consumption [W], 2.10769E-004
- Component Sizing Information, WaterHeater:Mixed, SWHSYS1 WATER HEATER, Use Side Design Flow Rate [m3/s], 1.64400E-004
-! <Environment>,Environment Name,Environment Type, Start Date, End Date, Start DayOfWeek, Duration {#days}, Source:Start DayOfWeek,  Use Daylight Saving, Use Holidays, Apply Weekend Holiday Rule,  Use Rain Values, Use Snow Values, Sky Temperature Model
-! <Environment:Special Days>, Special Day Name, Special Day Type, Source, Start Date, Duration {#days}
-! <Environment:Daylight Saving>, Daylight Saving Indicator, Source, Start Date, End Date
-! <Environment:WarmupDays>, NumberofWarmupDays
-Environment,RUNPERIOD 1,WeatherFileRunPeriod,07/01/2013,07/02/2013,Monday,2,Use RunPeriod Specified Day,No,No,No,Yes,Yes,Clark and Allen
-Environment:Daylight Saving,Yes,InputFile,03/10,11/03
-Environment:Special Days,NEW YEARS DAY,Holiday,InputFile,01/01,  1Environment:Special Days,VETERANS DAY,Holiday,InputFile,11/11,  1Environment:Special Days,CHRISTMAS,Holiday,InputFile,12/25,  1Environment:Special Days,INDEPENDENCE DAY,Holiday,InputFile,07/04,  1Environment:Special Days,MLK DAY,Holiday,InputFile,01/21,  1Environment:Special Days,PRESIDENTS DAY,Holiday,InputFile,02/18,  1Environment:Special Days,MEMORIAL DAY,Holiday,InputFile,05/27,  1Environment:Special Days,LABOR DAY,Holiday,InputFile,09/02,  1Environment:Special Days,COLUMBUS DAY,Holiday,InputFile,10/14,  1Environment:Special Days,THANKSGIVING,Holiday,InputFile,11/28,  1Environment:WarmupDays,  6
-! <Warmup Convergence Information>,Zone Name,Environment Type/Name,Average Warmup Temperature Difference {deltaC},Std Dev Warmup Temperature Difference {deltaC},Max Temperature Pass/Fail Convergence,Min Temperature Pass/Fail Convergence,Average Warmup Load Difference {W},Std Dev Warmup Load Difference {W},Heating Load Pass/Fail Convergence,Cooling Load Pass/Fail Convergence
- Warmup Convergence Information,BATH_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,7.2648211599E-002,0.1247996883,Pass,Pass,2.0310742327E-002,0.1327295173,Pass,Pass
- Warmup Convergence Information,CAFETERIA_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,4.7665255436E-002,0.1984056078,Pass,Pass,7.6924208957E-002,0.3352093158,Pass,Pass
- Warmup Convergence Information,COMPUTER_CLASS_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,7.8882609827E-002,0.1653229876,Pass,Pass,3.3307534361E-002,0.1740061317,Pass,Pass
- Warmup Convergence Information,CORNER_CLASS_1_POD_1_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,0.1266529060,0.2609599060,Pass,Pass,3.7105524830E-002,0.1739063115,Pass,Pass
- Warmup Convergence Information,CORNER_CLASS_1_POD_2_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,0.1257401760,0.2586256264,Pass,Pass,3.7083188829E-002,0.1739936749,Pass,Pass
- Warmup Convergence Information,CORNER_CLASS_1_POD_3_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,0.1256894659,0.2588177468,Pass,Pass,3.7105803474E-002,0.1738122144,Pass,Pass
- Warmup Convergence Information,CORNER_CLASS_2_POD_1_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,0.1241530504,0.2579182159,Pass,Pass,3.7265464465E-002,0.1746072622,Pass,Pass
- Warmup Convergence Information,CORNER_CLASS_2_POD_2_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,0.1241817475,0.2580540771,Pass,Pass,3.7253088976E-002,0.1745892923,Pass,Pass
- Warmup Convergence Information,CORNER_CLASS_2_POD_3_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,0.1247333955,0.2601835526,Pass,Pass,3.7231542167E-002,0.1742812327,Pass,Pass
- Warmup Convergence Information,CORRIDOR_POD_1_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,5.2168724859E-002,8.9433125139E-002,Pass,Pass,2.6547943437E-002,0.1557341721,Pass,Pass
- Warmup Convergence Information,CORRIDOR_POD_2_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,5.1764757713E-002,8.8740554978E-002,Pass,Pass,2.6541935949E-002,0.1557183685,Pass,Pass
- Warmup Convergence Information,CORRIDOR_POD_3_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,5.2260274027E-002,9.0343416854E-002,Pass,Pass,2.6411422071E-002,0.1551469772,Pass,Pass
- Warmup Convergence Information,GYM_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,3.8429080632E-002,0.1780811530,Pass,Pass,3.8240622731E-002,0.1761011808,Pass,Pass
- Warmup Convergence Information,KITCHEN_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,2.2844360326E-002,4.8307508237E-002,Pass,Pass,3.2511128239E-002,0.1201950662,Pass,Pass
- Warmup Convergence Information,LIBRARY_MEDIA_CENTER_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,7.4405076789E-002,0.1514763283,Pass,Pass,2.9039740790E-002,0.1586316938,Pass,Pass
- Warmup Convergence Information,LOBBY_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,5.9031224602E-002,0.1138605700,Pass,Pass,2.9464207002E-002,0.1670386271,Pass,Pass
- Warmup Convergence Information,MAIN_CORRIDOR_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,5.4913465954E-002,9.4212708351E-002,Pass,Pass,1.9628120403E-002,0.1313675056,Pass,Pass
- Warmup Convergence Information,MECH_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,4.7425980194E-002,7.8734198924E-002,Pass,Pass,1.9262437223E-002,0.1307538692,Pass,Pass
- Warmup Convergence Information,MULT_CLASS_1_POD_1_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,8.0617264006E-002,0.1536768497,Pass,Pass,3.6023677693E-002,0.1770396112,Pass,Pass
- Warmup Convergence Information,MULT_CLASS_1_POD_2_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,7.8969150274E-002,0.1500254974,Pass,Pass,3.6001391398E-002,0.1774937730,Pass,Pass
- Warmup Convergence Information,MULT_CLASS_1_POD_3_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,7.9154670932E-002,0.1512388629,Pass,Pass,3.5840730270E-002,0.1769641869,Pass,Pass
- Warmup Convergence Information,MULT_CLASS_2_POD_1_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,7.8406426455E-002,0.1480355881,Pass,Pass,3.6128095311E-002,0.1789426378,Pass,Pass
- Warmup Convergence Information,MULT_CLASS_2_POD_2_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,7.8482449338E-002,0.1481648753,Pass,Pass,3.6128229904E-002,0.1789238954,Pass,Pass
- Warmup Convergence Information,MULT_CLASS_2_POD_3_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,7.9553787482E-002,0.1525822073,Pass,Pass,3.5913644078E-002,0.1784527929,Pass,Pass
- Warmup Convergence Information,OFFICES_ZN_1_FLR_1,RunPeriod: RUNPERIOD 1,6.4843277671E-002,0.1304996289,Pass,Pass,2.8263608813E-002,0.1549424063,Pass,Pass
-! <Program Control Information:Threads/Parallel Sims>, Threading Supported,Maximum Number of Threads, Env Set Threads (OMP_NUM_THREADS), EP Env Set Threads (EP_OMP_NUM_THREADS), IDF Set Threads, Number of Threads Used (Interior Radiant Exchange), Number Nominal Surfaces, Number Parallel Sims
-Program Control:Threads/Parallel Sims, No,1, N/A, N/A, N/A, N/A, N/A, N/A
-End of Data

@@ -1,1 +1,0 @@
-{"Metadata": {"clearing_price": {"units": "USD", "index": 0}, "clearing_type": {"units": "[0..5]=[Null,Fail,Price,Exact,Seller,Buyer]", "index": 1}, "consumer_surplus": {"units": "USD", "index": 2}, "average_consumer_surplus": {"units": "USD", "index": 3}, "supplier_surplus": {"units": "USD", "index": 4}}, "StartTime": "2013-07-01 00:00:00 -0800"}

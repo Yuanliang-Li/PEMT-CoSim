@@ -98,11 +98,13 @@ RUN apt-get update && \
     apt-get -y install python3-tk && \
     apt-get -y install python3-pip && \
     apt-get -y install lsof && \
-    pip3 install tesp_support --upgrade && \
-    pip3 install psst --upgrade && \
-    pip3 install helics==2.5.2 && \
+#    pip3 install tesp_support --upgrade && \
+#    pip3 install psst --upgrade && \
+#    pip3 install helics==2.5.2 && \
     pip3 install psutil && \
     pip3 install glm && \
+    pip3 install numpy==1.21.3 && \
+    pip3 install torch==1.11.0+cpu torchvision==0.12.0+cpu torchaudio==0.11.0 --extra-index-url https://download.pytorch.org/whl/cpu  && \
     # download the tesp installer
     curl -L ${TESP_RELEASE_URL} -o ${TESP_RELEASE_FILE}
 
