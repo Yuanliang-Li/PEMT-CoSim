@@ -1,4 +1,4 @@
-HELICS initialized to publish {'temperature': <Swig Object of type 'helics_input' at 0x7fa5a2705e10>, 'temperature/forecast': <Swig Object of type 'helics_input' at 0x7fa5a2705a50>, 'humidity': <Swig Object of type 'helics_input' at 0x7fa5a2705b10>, 'humidity/forecast': <Swig Object of type 'helics_input' at 0x7fa5a2705bd0>, 'solar_direct': <Swig Object of type 'helics_input' at 0x7fa5a2705ba0>, 'solar_direct/forecast': <Swig Object of type 'helics_input' at 0x7fa5a2705b40>, 'solar_diffuse': <Swig Object of type 'helics_input' at 0x7fa5a2705ae0>, 'solar_diffuse/forecast': <Swig Object of type 'helics_input' at 0x7fa5a2705ab0>, 'pressure': <Swig Object of type 'helics_input' at 0x7fa5a2705c30>, 'pressure/forecast': <Swig Object of type 'helics_input' at 0x7fa5a2705cf0>, 'wind_speed': <Swig Object of type 'helics_input' at 0x7fa5a2705d50>, 'wind_speed/forecast': <Swig Object of type 'helics_input' at 0x7fa5a2705d80>}
+HELICS initialized to publish {'temperature': <Swig Object of type 'helics_input' at 0x7f2be46c6e10>, 'temperature/forecast': <Swig Object of type 'helics_input' at 0x7f2be46c6a50>, 'humidity': <Swig Object of type 'helics_input' at 0x7f2be46c6b10>, 'humidity/forecast': <Swig Object of type 'helics_input' at 0x7f2be46c6bd0>, 'solar_direct': <Swig Object of type 'helics_input' at 0x7f2be46c6ba0>, 'solar_direct/forecast': <Swig Object of type 'helics_input' at 0x7f2be46c6b40>, 'solar_diffuse': <Swig Object of type 'helics_input' at 0x7f2be46c6ae0>, 'solar_diffuse/forecast': <Swig Object of type 'helics_input' at 0x7f2be46c6ab0>, 'pressure': <Swig Object of type 'helics_input' at 0x7f2be46c6c30>, 'pressure/forecast': <Swig Object of type 'helics_input' at 0x7f2be46c6cf0>, 'wind_speed': <Swig Object of type 'helics_input' at 0x7f2be46c6d50>, 'wind_speed/forecast': <Swig Object of type 'helics_input' at 0x7f2be46c6d80>}
 forecasting at 2013-07-01 00:00:00 for weather starting from 2013-07-01 00:00:00
 forecasting at 2013-07-01 00:59:57 for weather starting from 2013-07-01 01:00:00
 forecasting at 2013-07-01 01:59:57 for weather starting from 2013-07-01 02:00:00
@@ -49,9 +49,9 @@ forecasting at 2013-07-02 21:59:57 for weather starting from 2013-07-02 22:00:00
 forecasting at 2013-07-02 22:59:57 for weather starting from 2013-07-02 23:00:00
 forecasting at 2013-07-02 23:59:57 for weather starting from 2013-07-03 00:00:00
 Resource usage:
-  User time                 (ru_utime  ) = 2.672988
-  System time               (ru_stime  ) = 0.570183
-  Max. Resident Set Size    (ru_maxrss ) = 155976
+  User time                 (ru_utime  ) = 2.469433
+  System time               (ru_stime  ) = 0.481539
+  Max. Resident Set Size    (ru_maxrss ) = 155408
   Shared Memory Size        (ru_ixrss  ) = 0
   Unshared Memory Size      (ru_idrss  ) = 0
   Stack Size                (ru_isrss  ) = 0

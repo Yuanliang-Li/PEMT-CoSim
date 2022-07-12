@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/te30-VPP-HVAC.iml" filepath="$PROJECT_DIR$/.idea/te30-VPP-HVAC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/demo-PET.iml" filepath="$PROJECT_DIR$/.idea/demo-PET.iml" />
     </modules>
   </component>
 </project>

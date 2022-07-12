@@ -1,0 +1,927 @@
+{
+  "bulkpower_bus": "TBD",
+  "FedName": "gld1",
+  "transformer_MVA": 12.0,
+  "feeders": {
+    "network_node": {
+      "house_count": 30,
+      "inverter_count": 30,
+      "base_feeder": ""
+    }
+  },
+  "billingmeters": {
+    "F1_tpm_rt_B0": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_B0",
+        "inv_F1_house_B0"
+      ]
+    },
+    "F1_tpm_rt_C1": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_C1",
+        "inv_F1_house_C1"
+      ]
+    },
+    "F1_tpm_rt_C2": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_C2",
+        "inv_F1_house_C2"
+      ]
+    },
+    "F1_tpm_rt_B3": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_B3",
+        "inv_F1_house_B3"
+      ]
+    },
+    "F1_tpm_rt_B4": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_B4",
+        "inv_F1_house_B4"
+      ]
+    },
+    "F1_tpm_rt_A5": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_A5",
+        "inv_F1_house_A5"
+      ]
+    },
+    "F1_tpm_rt_B6": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_B6",
+        "inv_F1_house_B6"
+      ]
+    },
+    "F1_tpm_rt_B7": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_B7",
+        "inv_F1_house_B7"
+      ]
+    },
+    "F1_tpm_rt_A8": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_A8",
+        "inv_F1_house_A8"
+      ]
+    },
+    "F1_tpm_rt_A9": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_A9",
+        "inv_F1_house_A9"
+      ]
+    },
+    "F1_tpm_rt_C10": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_C10",
+        "inv_F1_house_C10"
+      ]
+    },
+    "F1_tpm_rt_A11": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_A11",
+        "inv_F1_house_A11"
+      ]
+    },
+    "F1_tpm_rt_A12": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_A12",
+        "inv_F1_house_A12"
+      ]
+    },
+    "F1_tpm_rt_A13": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_A13",
+        "inv_F1_house_A13"
+      ]
+    },
+    "F1_tpm_rt_C14": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_C14",
+        "inv_F1_house_C14"
+      ]
+    },
+    "F1_tpm_rt_A15": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_A15",
+        "inv_F1_house_A15"
+      ]
+    },
+    "F1_tpm_rt_A16": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_A16",
+        "inv_F1_house_A16"
+      ]
+    },
+    "F1_tpm_rt_C17": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_C17",
+        "inv_F1_house_C17"
+      ]
+    },
+    "F1_tpm_rt_C18": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_C18",
+        "inv_F1_house_C18"
+      ]
+    },
+    "F1_tpm_rt_B19": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_B19",
+        "inv_F1_house_B19"
+      ]
+    },
+    "F1_tpm_rt_B20": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_B20",
+        "inv_F1_house_B20"
+      ]
+    },
+    "F1_tpm_rt_C21": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_C21",
+        "inv_F1_house_C21"
+      ]
+    },
+    "F1_tpm_rt_B22": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_B22",
+        "inv_F1_house_B22"
+      ]
+    },
+    "F1_tpm_rt_B23": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_B23",
+        "inv_F1_house_B23"
+      ]
+    },
+    "F1_tpm_rt_B24": {
+      "feeder_id": "network_node",
+      "phases": "SB",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_B24",
+        "inv_F1_house_B24"
+      ]
+    },
+    "F1_tpm_rt_A25": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_A25",
+        "inv_F1_house_A25"
+      ]
+    },
+    "F1_tpm_rt_A26": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_A26",
+        "inv_F1_house_A26"
+      ]
+    },
+    "F1_tpm_rt_C27": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_C27",
+        "inv_F1_house_C27"
+      ]
+    },
+    "F1_tpm_rt_A28": {
+      "feeder_id": "network_node",
+      "phases": "SA",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_A28",
+        "inv_F1_house_A28"
+      ]
+    },
+    "F1_tpm_rt_C29": {
+      "feeder_id": "network_node",
+      "phases": "SC",
+      "vll": 240.0,
+      "vln": 120.0,
+      "children": [
+        "F1_house_C29",
+        "inv_F1_house_C29"
+      ]
+    },
+    "Eplus_meter": {
+      "feeder_id": "network_node",
+      "phases": "ABCN",
+      "vll": 479.778073696579,
+      "vln": 277.0,
+      "children": []
+    }
+  },
+  "houses": {
+    "F1_house_B0": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B0",
+      "sqft": 637.886,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_B0"
+    },
+    "F1_house_C1": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C1",
+      "sqft": 1094.925,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_C1"
+    },
+    "F1_house_C2": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C2",
+      "sqft": 618.015,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_C2"
+    },
+    "F1_house_B3": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B3",
+      "sqft": 2971.712,
+      "stories": 1,
+      "doors": 3,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_B3"
+    },
+    "F1_house_B4": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B4",
+      "sqft": 1476.721,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_B4"
+    },
+    "F1_house_A5": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A5",
+      "sqft": 1067.468,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_A5"
+    },
+    "F1_house_B6": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B6",
+      "sqft": 1434.683,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_B6"
+    },
+    "F1_house_B7": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B7",
+      "sqft": 1302.331,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_B7"
+    },
+    "F1_house_A8": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A8",
+      "sqft": 870.493,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_A8"
+    },
+    "F1_house_A9": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A9",
+      "sqft": 799.598,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_A9"
+    },
+    "F1_house_C10": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C10",
+      "sqft": 764.549,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_C10"
+    },
+    "F1_house_A11": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A11",
+      "sqft": 770.818,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_A11"
+    },
+    "F1_house_A12": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A12",
+      "sqft": 848.429,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_A12"
+    },
+    "F1_house_A13": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A13",
+      "sqft": 849.741,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_A13"
+    },
+    "F1_house_C14": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C14",
+      "sqft": 1197.418,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_C14"
+    },
+    "F1_house_A15": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A15",
+      "sqft": 3212.13,
+      "stories": 1,
+      "doors": 4,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_A15"
+    },
+    "F1_house_A16": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A16",
+      "sqft": 1206.328,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_A16"
+    },
+    "F1_house_C17": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C17",
+      "sqft": 2699.752,
+      "stories": 1,
+      "doors": 3,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_C17"
+    },
+    "F1_house_C18": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C18",
+      "sqft": 695.064,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_C18"
+    },
+    "F1_house_B19": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B19",
+      "sqft": 2504.546,
+      "stories": 1,
+      "doors": 3,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_B19"
+    },
+    "F1_house_B20": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B20",
+      "sqft": 2932.802,
+      "stories": 1,
+      "doors": 3,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_B20"
+    },
+    "F1_house_C21": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C21",
+      "sqft": 2987.803,
+      "stories": 1,
+      "doors": 3,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_C21"
+    },
+    "F1_house_B22": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B22",
+      "sqft": 3845.028,
+      "stories": 1,
+      "doors": 4,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_B22"
+    },
+    "F1_house_B23": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B23",
+      "sqft": 3393.594,
+      "stories": 1,
+      "doors": 4,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_B23"
+    },
+    "F1_house_B24": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B24",
+      "sqft": 728.332,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_B24"
+    },
+    "F1_house_A25": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A25",
+      "sqft": 949.846,
+      "stories": 1,
+      "doors": 1,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_A25"
+    },
+    "F1_house_A26": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A26",
+      "sqft": 1150.038,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_A26"
+    },
+    "F1_house_C27": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C27",
+      "sqft": 1434.604,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_C27"
+    },
+    "F1_house_A28": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A28",
+      "sqft": 1350.444,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_A28"
+    },
+    "F1_house_C29": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C29",
+      "sqft": 1282.961,
+      "stories": 1,
+      "doors": 2,
+      "thermal_integrity": "UNKNOWN",
+      "cooling": "ELECTRIC",
+      "heating": "GAS",
+      "wh_gallons": 0,
+      "house_class": "SINGLE_FAMILY",
+      "parent": "F1_tpm_rt_C29"
+    }
+  },
+  "inverters": {
+    "inv_F1_house_B0": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B0",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_C1": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C1",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_C2": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C2",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_B3": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B3",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_B4": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B4",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_A5": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A5",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_B6": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B6",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_B7": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B7",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_A8": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A8",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_A9": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A9",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_C10": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C10",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_A11": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A11",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_A12": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A12",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_A13": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A13",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_C14": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C14",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_A15": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A15",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_A16": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A16",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_C17": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C17",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_C18": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C18",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_B19": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B19",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_B20": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B20",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_C21": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C21",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_B22": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B22",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_B23": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B23",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_B24": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_B24",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_A25": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A25",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_A26": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A26",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_C27": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C27",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_A28": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_A28",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    },
+    "inv_F1_house_C29": {
+      "feeder_id": "network_node",
+      "billingmeter_id": "F1_tpm_rt_C29",
+      "rated_W": 7500.0,
+      "resource": "solar",
+      "inv_eta": 0.9
+    }
+  },
+  "capacitors": {},
+  "regulators": {}
+}

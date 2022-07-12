@@ -14,586 +14,147 @@ HELICS subscription key 5 _input_7 target sub1/responsive_deg
   Keeping SWING Bus 2 (Gen 2) at 1185 and 73.13 MW
   Keeping SWING Bus 2 (Gen 2) at 1485 and 73.41 MW
   Keeping SWING Bus 2 (Gen 2) at 1785 and 72.93 MW
-  Keeping SWING Bus 2 (Gen 2) at 2085 and 72.93 MW
-  Keeping SWING Bus 2 (Gen 2) at 2385 and 73.07 MW
-  Keeping SWING Bus 2 (Gen 2) at 2685 and 72.62 MW
-  Keeping SWING Bus 2 (Gen 2) at 2985 and 72.82 MW
-  Keeping SWING Bus 2 (Gen 2) at 3285 and 72.46 MW
+  Keeping SWING Bus 2 (Gen 2) at 2085 and 72.80 MW
+  Keeping SWING Bus 2 (Gen 2) at 2385 and 73.31 MW
+  Keeping SWING Bus 2 (Gen 2) at 2685 and 72.75 MW
+  Keeping SWING Bus 2 (Gen 2) at 2985 and 72.59 MW
+  Keeping SWING Bus 2 (Gen 2) at 3285 and 72.54 MW
   Keeping SWING Bus 2 (Gen 2) at 3585 and 72.09 MW
   Keeping SWING Bus 2 (Gen 2) at 3885 and 72.14 MW
-  Keeping SWING Bus 2 (Gen 2) at 4185 and 72.52 MW
-  Keeping SWING Bus 2 (Gen 2) at 4485 and 72.12 MW
-  Keeping SWING Bus 2 (Gen 2) at 4785 and 72.45 MW
-  Keeping SWING Bus 2 (Gen 2) at 5085 and 72.09 MW
-  Keeping SWING Bus 2 (Gen 2) at 5385 and 72.21 MW
-  Keeping SWING Bus 2 (Gen 2) at 5685 and 72.16 MW
-  Keeping SWING Bus 2 (Gen 2) at 5985 and 71.95 MW
-  Keeping SWING Bus 2 (Gen 2) at 6285 and 71.98 MW
-  Keeping SWING Bus 2 (Gen 2) at 6585 and 72.04 MW
-  Keeping SWING Bus 2 (Gen 2) at 6885 and 71.39 MW
-  Keeping SWING Bus 2 (Gen 2) at 7185 and 71.73 MW
-  Keeping SWING Bus 2 (Gen 2) at 7485 and 71.73 MW
-  Keeping SWING Bus 2 (Gen 2) at 7785 and 71.69 MW
-  Keeping SWING Bus 2 (Gen 2) at 8085 and 71.40 MW
-  Keeping SWING Bus 2 (Gen 2) at 8385 and 71.41 MW
-  Keeping SWING Bus 2 (Gen 2) at 8685 and 71.99 MW
-  Keeping SWING Bus 2 (Gen 2) at 8985 and 71.52 MW
-  Keeping SWING Bus 2 (Gen 2) at 9285 and 72.25 MW
-  Keeping SWING Bus 2 (Gen 2) at 9585 and 71.88 MW
-  Keeping SWING Bus 2 (Gen 2) at 9885 and 71.14 MW
-  Keeping SWING Bus 2 (Gen 2) at 10185 and 71.20 MW
-  Keeping SWING Bus 2 (Gen 2) at 10485 and 72.14 MW
-  Keeping SWING Bus 2 (Gen 2) at 10785 and 71.86 MW
-  Keeping SWING Bus 2 (Gen 2) at 11085 and 72.19 MW
-  Keeping SWING Bus 2 (Gen 2) at 11385 and 72.16 MW
-  Keeping SWING Bus 2 (Gen 2) at 11685 and 72.79 MW
+  Keeping SWING Bus 2 (Gen 2) at 4185 and 72.75 MW
+  Keeping SWING Bus 2 (Gen 2) at 4485 and 71.99 MW
+  Keeping SWING Bus 2 (Gen 2) at 4785 and 72.26 MW
+  Keeping SWING Bus 2 (Gen 2) at 5085 and 71.92 MW
+  Keeping SWING Bus 2 (Gen 2) at 5385 and 71.75 MW
+  Keeping SWING Bus 2 (Gen 2) at 5685 and 72.11 MW
+  Keeping SWING Bus 2 (Gen 2) at 5985 and 71.71 MW
+  Keeping SWING Bus 2 (Gen 2) at 6285 and 72.39 MW
+  Keeping SWING Bus 2 (Gen 2) at 6585 and 72.10 MW
+  Keeping SWING Bus 2 (Gen 2) at 6885 and 71.98 MW
+  Keeping SWING Bus 2 (Gen 2) at 7185 and 71.95 MW
+  Keeping SWING Bus 2 (Gen 2) at 7485 and 71.90 MW
+  Keeping SWING Bus 2 (Gen 2) at 7785 and 71.52 MW
+  Keeping SWING Bus 2 (Gen 2) at 8085 and 72.46 MW
+  Keeping SWING Bus 2 (Gen 2) at 8385 and 71.28 MW
+  Keeping SWING Bus 2 (Gen 2) at 8685 and 71.59 MW
+  Keeping SWING Bus 2 (Gen 2) at 8985 and 71.98 MW
+  Keeping SWING Bus 2 (Gen 2) at 9285 and 71.65 MW
+  Keeping SWING Bus 2 (Gen 2) at 9585 and 71.95 MW
+  Keeping SWING Bus 2 (Gen 2) at 9885 and 71.55 MW
+  Keeping SWING Bus 2 (Gen 2) at 10185 and 71.67 MW
+  Keeping SWING Bus 2 (Gen 2) at 10485 and 71.61 MW
+  Keeping SWING Bus 2 (Gen 2) at 10785 and 71.72 MW
+  Keeping SWING Bus 2 (Gen 2) at 11085 and 72.51 MW
+  Keeping SWING Bus 2 (Gen 2) at 11385 and 72.26 MW
+  Keeping SWING Bus 2 (Gen 2) at 11685 and 72.51 MW
   Keeping SWING Bus 2 (Gen 2) at 11985 and 72.20 MW
-  Keeping SWING Bus 2 (Gen 2) at 12285 and 72.51 MW
-  Keeping SWING Bus 2 (Gen 2) at 12585 and 72.18 MW
-  Keeping SWING Bus 2 (Gen 2) at 12885 and 71.67 MW
-  Keeping SWING Bus 2 (Gen 2) at 13185 and 71.68 MW
-  Keeping SWING Bus 2 (Gen 2) at 13485 and 72.10 MW
-  Keeping SWING Bus 2 (Gen 2) at 13785 and 72.56 MW
-  Keeping SWING Bus 2 (Gen 2) at 14085 and 72.29 MW
-  Keeping SWING Bus 2 (Gen 2) at 14385 and 71.75 MW
-  Keeping SWING Bus 2 (Gen 2) at 14685 and 72.75 MW
-  Keeping SWING Bus 2 (Gen 2) at 14985 and 71.70 MW
-  Keeping SWING Bus 2 (Gen 2) at 15285 and 71.96 MW
-  Keeping SWING Bus 2 (Gen 2) at 15585 and 72.50 MW
-  Keeping SWING Bus 2 (Gen 2) at 15885 and 72.06 MW
-  Keeping SWING Bus 2 (Gen 2) at 16185 and 71.79 MW
-  Keeping SWING Bus 2 (Gen 2) at 16485 and 72.11 MW
-  Keeping SWING Bus 2 (Gen 2) at 16785 and 72.29 MW
-  Keeping SWING Bus 2 (Gen 2) at 17085 and 71.66 MW
-  Keeping SWING Bus 2 (Gen 2) at 17385 and 71.70 MW
-  Keeping SWING Bus 2 (Gen 2) at 17685 and 72.17 MW
-  Keeping SWING Bus 2 (Gen 2) at 17985 and 72.45 MW
-  Keeping SWING Bus 2 (Gen 2) at 18285 and 72.08 MW
-  Keeping SWING Bus 2 (Gen 2) at 18585 and 72.29 MW
-  Keeping SWING Bus 2 (Gen 2) at 18885 and 74.37 MW
-  Keeping SWING Bus 2 (Gen 2) at 19185 and 73.80 MW
-  Keeping SWING Bus 2 (Gen 2) at 19485 and 74.56 MW
-  Keeping SWING Bus 2 (Gen 2) at 19785 and 74.33 MW
-  Keeping SWING Bus 2 (Gen 2) at 20085 and 74.07 MW
-  Keeping SWING Bus 2 (Gen 2) at 20385 and 74.20 MW
-  Keeping SWING Bus 2 (Gen 2) at 20685 and 74.27 MW
-  Keeping SWING Bus 2 (Gen 2) at 20985 and 74.06 MW
-  Keeping SWING Bus 2 (Gen 2) at 21285 and 75.12 MW
-  Keeping SWING Bus 2 (Gen 2) at 21585 and 74.93 MW
-  Keeping SWING Bus 2 (Gen 2) at 21885 and 75.01 MW
-  Keeping SWING Bus 2 (Gen 2) at 22185 and 75.02 MW
-  Keeping SWING Bus 2 (Gen 2) at 22485 and 75.48 MW
-  Keeping SWING Bus 2 (Gen 2) at 22785 and 75.96 MW
-  Keeping SWING Bus 2 (Gen 2) at 23085 and 76.06 MW
-  Keeping SWING Bus 2 (Gen 2) at 23385 and 75.95 MW
-  Keeping SWING Bus 2 (Gen 2) at 23685 and 76.44 MW
-  Keeping SWING Bus 2 (Gen 2) at 23985 and 76.69 MW
-  Keeping SWING Bus 2 (Gen 2) at 24285 and 77.16 MW
-  Keeping SWING Bus 2 (Gen 2) at 24585 and 76.66 MW
-  Keeping SWING Bus 2 (Gen 2) at 24885 and 78.82 MW
-  Keeping SWING Bus 2 (Gen 2) at 25185 and 79.39 MW
-  Keeping SWING Bus 2 (Gen 2) at 25485 and 79.95 MW
-  Keeping SWING Bus 2 (Gen 2) at 25785 and 82.40 MW
-  Keeping SWING Bus 2 (Gen 2) at 26085 and 89.49 MW
-  Keeping SWING Bus 2 (Gen 2) at 26385 and 89.97 MW
-  Keeping SWING Bus 2 (Gen 2) at 26685 and 93.22 MW
-  Keeping SWING Bus 2 (Gen 2) at 26985 and 93.50 MW
-  Keeping SWING Bus 2 (Gen 2) at 27285 and 91.42 MW
-  Keeping SWING Bus 2 (Gen 2) at 27585 and 96.11 MW
-  Keeping SWING Bus 2 (Gen 2) at 27885 and 97.40 MW
-  Keeping SWING Bus 2 (Gen 2) at 28185 and 98.06 MW
-  Keeping SWING Bus 2 (Gen 2) at 28485 and 96.32 MW
-  Keeping SWING Bus 2 (Gen 2) at 28785 and 101.17 MW
-  Keeping SWING Bus 2 (Gen 2) at 29085 and 101.41 MW
-  Keeping SWING Bus 2 (Gen 2) at 29385 and 102.50 MW
-  Keeping SWING Bus 2 (Gen 2) at 29685 and 103.79 MW
-  Keeping SWING Bus 2 (Gen 2) at 29985 and 107.45 MW
-  Keeping SWING Bus 2 (Gen 2) at 30285 and 107.77 MW
-  Keeping SWING Bus 2 (Gen 2) at 30585 and 106.30 MW
-  Keeping SWING Bus 2 (Gen 2) at 30885 and 113.29 MW
-  Keeping SWING Bus 2 (Gen 2) at 31185 and 110.60 MW
-  Keeping SWING Bus 2 (Gen 2) at 31485 and 112.73 MW
-  Keeping SWING Bus 2 (Gen 2) at 31785 and 111.34 MW
-  Keeping SWING Bus 2 (Gen 2) at 32085 and 112.72 MW
-  Keeping SWING Bus 2 (Gen 2) at 32385 and 113.88 MW
-  Keeping SWING Bus 2 (Gen 2) at 32685 and 113.47 MW
-  Keeping SWING Bus 2 (Gen 2) at 32985 and 107.94 MW
-  Keeping SWING Bus 2 (Gen 2) at 33285 and 111.40 MW
-  Keeping SWING Bus 2 (Gen 2) at 33585 and 113.84 MW
-  Keeping SWING Bus 2 (Gen 2) at 33885 and 113.47 MW
-  Keeping SWING Bus 2 (Gen 2) at 34185 and 115.30 MW
-  Keeping SWING Bus 2 (Gen 2) at 34485 and 120.38 MW
-  Keeping SWING Bus 2 (Gen 2) at 34785 and 117.90 MW
-  Keeping SWING Bus 2 (Gen 2) at 35085 and 118.34 MW
-  Keeping SWING Bus 2 (Gen 2) at 35385 and 115.64 MW
-  Keeping SWING Bus 2 (Gen 2) at 35685 and 119.38 MW
-  Keeping SWING Bus 2 (Gen 2) at 35985 and 115.66 MW
-  Keeping SWING Bus 2 (Gen 2) at 36285 and 116.34 MW
-  Keeping SWING Bus 2 (Gen 2) at 36585 and 121.98 MW
-  Keeping SWING Bus 2 (Gen 2) at 36885 and 118.21 MW
-  Keeping SWING Bus 2 (Gen 2) at 37185 and 122.96 MW
-  Keeping SWING Bus 2 (Gen 2) at 37485 and 125.69 MW
-  Keeping SWING Bus 2 (Gen 2) at 37785 and 126.55 MW
-  Keeping SWING Bus 2 (Gen 2) at 38085 and 125.83 MW
-  Keeping SWING Bus 2 (Gen 2) at 38385 and 129.06 MW
-  Keeping SWING Bus 2 (Gen 2) at 38685 and 132.01 MW
-  Keeping SWING Bus 2 (Gen 2) at 38985 and 131.84 MW
-  Keeping SWING Bus 2 (Gen 2) at 39285 and 135.33 MW
-  Keeping SWING Bus 2 (Gen 2) at 39585 and 137.98 MW
-  Keeping SWING Bus 2 (Gen 2) at 39885 and 136.98 MW
-  Keeping SWING Bus 2 (Gen 2) at 40185 and 142.46 MW
-  Keeping SWING Bus 2 (Gen 2) at 40485 and 144.39 MW
-  Keeping SWING Bus 2 (Gen 2) at 40785 and 137.05 MW
-  Keeping SWING Bus 2 (Gen 2) at 41085 and 147.02 MW
-  Keeping SWING Bus 2 (Gen 2) at 41385 and 147.17 MW
-  Keeping SWING Bus 2 (Gen 2) at 41685 and 147.90 MW
-  Keeping SWING Bus 2 (Gen 2) at 41985 and 145.98 MW
-  Keeping SWING Bus 2 (Gen 2) at 42285 and 150.95 MW
-  Keeping SWING Bus 2 (Gen 2) at 42585 and 153.69 MW
-  Keeping SWING Bus 2 (Gen 2) at 42885 and 148.16 MW
-  Keeping SWING Bus 2 (Gen 2) at 43185 and 161.25 MW
-  Keeping SWING Bus 2 (Gen 2) at 43485 and 152.92 MW
-  Keeping SWING Bus 2 (Gen 2) at 43785 and 156.16 MW
-  Keeping SWING Bus 2 (Gen 2) at 44085 and 158.79 MW
-  Keeping SWING Bus 2 (Gen 2) at 44385 and 153.71 MW
-  Keeping SWING Bus 2 (Gen 2) at 44685 and 163.37 MW
-  Keeping SWING Bus 2 (Gen 2) at 44985 and 155.00 MW
-  Keeping SWING Bus 2 (Gen 2) at 45285 and 161.01 MW
-  Keeping SWING Bus 2 (Gen 2) at 45585 and 157.08 MW
-  Keeping SWING Bus 2 (Gen 2) at 45885 and 159.51 MW
-  Keeping SWING Bus 2 (Gen 2) at 46185 and 165.35 MW
-  Keeping SWING Bus 2 (Gen 2) at 46485 and 159.99 MW
-  Keeping SWING Bus 2 (Gen 2) at 46785 and 161.57 MW
-  Keeping SWING Bus 2 (Gen 2) at 47085 and 168.54 MW
-  Keeping SWING Bus 2 (Gen 2) at 47385 and 167.19 MW
-  Keeping SWING Bus 2 (Gen 2) at 47685 and 165.05 MW
-  Keeping SWING Bus 2 (Gen 2) at 47985 and 168.20 MW
-  Keeping SWING Bus 2 (Gen 2) at 48285 and 169.74 MW
-  Keeping SWING Bus 2 (Gen 2) at 48585 and 171.24 MW
-  Keeping SWING Bus 2 (Gen 2) at 48885 and 160.56 MW
-  Keeping SWING Bus 2 (Gen 2) at 49185 and 171.98 MW
-  Keeping SWING Bus 2 (Gen 2) at 49485 and 175.05 MW
-  Keeping SWING Bus 2 (Gen 2) at 49785 and 172.08 MW
-  Switching to SWING Bus 9 (Gen 4) at 50085 and 180.37 MW
-  Keeping SWING Bus 2 (Gen 2) at 50385 and 174.58 MW
-  Keeping SWING Bus 2 (Gen 2) at 50685 and 170.43 MW
-  Switching to SWING Bus 9 (Gen 4) at 50985 and 182.92 MW
-  Keeping SWING Bus 2 (Gen 2) at 51285 and 173.90 MW
-  Switching to SWING Bus 9 (Gen 4) at 51585 and 182.45 MW
-  Keeping SWING Bus 2 (Gen 2) at 51885 and 171.62 MW
-  Switching to SWING Bus 9 (Gen 4) at 52185 and 182.26 MW
-  Switching to SWING Bus 9 (Gen 4) at 52485 and 180.50 MW
-  Switching to SWING Bus 9 (Gen 4) at 52785 and 180.37 MW
-  Keeping SWING Bus 2 (Gen 2) at 53085 and 173.35 MW
-  Keeping SWING Bus 2 (Gen 2) at 53385 and 176.60 MW
-  Keeping SWING Bus 2 (Gen 2) at 53685 and 175.25 MW
-  Switching to SWING Bus 9 (Gen 4) at 53985 and 180.66 MW
-  Switching to SWING Bus 9 (Gen 4) at 54285 and 186.31 MW
-  Keeping SWING Bus 2 (Gen 2) at 54585 and 176.93 MW
-  Keeping SWING Bus 2 (Gen 2) at 54885 and 177.85 MW
-  Keeping SWING Bus 2 (Gen 2) at 55185 and 179.30 MW
-  Keeping SWING Bus 2 (Gen 2) at 55485 and 178.24 MW
-  Keeping SWING Bus 2 (Gen 2) at 55785 and 174.04 MW
-  Keeping SWING Bus 2 (Gen 2) at 56085 and 178.00 MW
-  Keeping SWING Bus 2 (Gen 2) at 56385 and 176.32 MW
-  Switching to SWING Bus 9 (Gen 4) at 56685 and 180.80 MW
-  Keeping SWING Bus 2 (Gen 2) at 56985 and 173.57 MW
-  Keeping SWING Bus 2 (Gen 2) at 57285 and 179.63 MW
-  Keeping SWING Bus 2 (Gen 2) at 57585 and 172.39 MW
-  Keeping SWING Bus 2 (Gen 2) at 57885 and 176.33 MW
-  Keeping SWING Bus 2 (Gen 2) at 58185 and 175.40 MW
-  Keeping SWING Bus 2 (Gen 2) at 58485 and 171.31 MW
-  Keeping SWING Bus 2 (Gen 2) at 58785 and 171.35 MW
-  Keeping SWING Bus 2 (Gen 2) at 59085 and 166.31 MW
-  Keeping SWING Bus 2 (Gen 2) at 59385 and 166.62 MW
-  Keeping SWING Bus 2 (Gen 2) at 59685 and 165.27 MW
-  Keeping SWING Bus 2 (Gen 2) at 59985 and 169.74 MW
-  Keeping SWING Bus 2 (Gen 2) at 60285 and 168.83 MW
-  Keeping SWING Bus 2 (Gen 2) at 60585 and 169.40 MW
-  Keeping SWING Bus 2 (Gen 2) at 60885 and 167.84 MW
-  Keeping SWING Bus 2 (Gen 2) at 61185 and 169.50 MW
-  Keeping SWING Bus 2 (Gen 2) at 61485 and 178.54 MW
-  Keeping SWING Bus 2 (Gen 2) at 61785 and 174.68 MW
-  Keeping SWING Bus 2 (Gen 2) at 62085 and 159.86 MW
-  Keeping SWING Bus 2 (Gen 2) at 62385 and 160.21 MW
-  Keeping SWING Bus 2 (Gen 2) at 62685 and 156.51 MW
-  Keeping SWING Bus 2 (Gen 2) at 62985 and 156.76 MW
-  Keeping SWING Bus 2 (Gen 2) at 63285 and 159.50 MW
-  Keeping SWING Bus 2 (Gen 2) at 63585 and 157.84 MW
-  Keeping SWING Bus 2 (Gen 2) at 63885 and 158.40 MW
-  Keeping SWING Bus 2 (Gen 2) at 64185 and 154.78 MW
-  Keeping SWING Bus 2 (Gen 2) at 64485 and 154.95 MW
-  Keeping SWING Bus 2 (Gen 2) at 64785 and 144.96 MW
-  Keeping SWING Bus 2 (Gen 2) at 65085 and 156.83 MW
-  Keeping SWING Bus 2 (Gen 2) at 65385 and 147.06 MW
-  Keeping SWING Bus 2 (Gen 2) at 65685 and 153.18 MW
-  Keeping SWING Bus 2 (Gen 2) at 65985 and 148.27 MW
-  Keeping SWING Bus 2 (Gen 2) at 66285 and 150.13 MW
-  Keeping SWING Bus 2 (Gen 2) at 66585 and 145.19 MW
-  Keeping SWING Bus 2 (Gen 2) at 66885 and 142.48 MW
-  Keeping SWING Bus 2 (Gen 2) at 67185 and 154.58 MW
-  Keeping SWING Bus 2 (Gen 2) at 67485 and 143.31 MW
-  Keeping SWING Bus 2 (Gen 2) at 67785 and 140.30 MW
-  Keeping SWING Bus 2 (Gen 2) at 68085 and 141.02 MW
-  Keeping SWING Bus 2 (Gen 2) at 68385 and 143.80 MW
-  Keeping SWING Bus 2 (Gen 2) at 68685 and 140.53 MW
-  Keeping SWING Bus 2 (Gen 2) at 68985 and 143.93 MW
-  Keeping SWING Bus 2 (Gen 2) at 69285 and 135.98 MW
-  Keeping SWING Bus 2 (Gen 2) at 69585 and 135.32 MW
-  Keeping SWING Bus 2 (Gen 2) at 69885 and 133.48 MW
-  Keeping SWING Bus 2 (Gen 2) at 70185 and 128.29 MW
-  Keeping SWING Bus 2 (Gen 2) at 70485 and 127.41 MW
-  Keeping SWING Bus 2 (Gen 2) at 70785 and 133.32 MW
-  Keeping SWING Bus 2 (Gen 2) at 71085 and 128.84 MW
-  Keeping SWING Bus 2 (Gen 2) at 71385 and 129.52 MW
-  Keeping SWING Bus 2 (Gen 2) at 71685 and 127.54 MW
-  Keeping SWING Bus 2 (Gen 2) at 71985 and 123.71 MW
-  Keeping SWING Bus 2 (Gen 2) at 72285 and 126.63 MW
-  Keeping SWING Bus 2 (Gen 2) at 72585 and 124.84 MW
-  Keeping SWING Bus 2 (Gen 2) at 72885 and 117.56 MW
-  Keeping SWING Bus 2 (Gen 2) at 73185 and 120.91 MW
-  Keeping SWING Bus 2 (Gen 2) at 73485 and 118.85 MW
-  Keeping SWING Bus 2 (Gen 2) at 73785 and 124.21 MW
-  Keeping SWING Bus 2 (Gen 2) at 74085 and 120.07 MW
-  Keeping SWING Bus 2 (Gen 2) at 74385 and 123.21 MW
-  Keeping SWING Bus 2 (Gen 2) at 74685 and 120.93 MW
-  Keeping SWING Bus 2 (Gen 2) at 74985 and 113.27 MW
-  Keeping SWING Bus 2 (Gen 2) at 75285 and 113.67 MW
-  Keeping SWING Bus 2 (Gen 2) at 75585 and 115.77 MW
-  Keeping SWING Bus 2 (Gen 2) at 75885 and 119.49 MW
-  Keeping SWING Bus 2 (Gen 2) at 76185 and 119.56 MW
-  Keeping SWING Bus 2 (Gen 2) at 76485 and 117.56 MW
-  Keeping SWING Bus 2 (Gen 2) at 76785 and 116.43 MW
-  Keeping SWING Bus 2 (Gen 2) at 77085 and 115.50 MW
-  Keeping SWING Bus 2 (Gen 2) at 77385 and 114.40 MW
-  Keeping SWING Bus 2 (Gen 2) at 77685 and 112.21 MW
-  Keeping SWING Bus 2 (Gen 2) at 77985 and 111.49 MW
-  Keeping SWING Bus 2 (Gen 2) at 78285 and 112.75 MW
-  Keeping SWING Bus 2 (Gen 2) at 78585 and 109.71 MW
-  Keeping SWING Bus 2 (Gen 2) at 78885 and 109.43 MW
-  Keeping SWING Bus 2 (Gen 2) at 79185 and 109.16 MW
-  Keeping SWING Bus 2 (Gen 2) at 79485 and 109.66 MW
-  Keeping SWING Bus 2 (Gen 2) at 79785 and 107.79 MW
-  Keeping SWING Bus 2 (Gen 2) at 80085 and 102.01 MW
-  Keeping SWING Bus 2 (Gen 2) at 80385 and 105.27 MW
-  Keeping SWING Bus 2 (Gen 2) at 80685 and 102.34 MW
-  Keeping SWING Bus 2 (Gen 2) at 80985 and 101.52 MW
-  Keeping SWING Bus 2 (Gen 2) at 81285 and 104.74 MW
-  Keeping SWING Bus 2 (Gen 2) at 81585 and 102.53 MW
-  Keeping SWING Bus 2 (Gen 2) at 81885 and 100.48 MW
-  Keeping SWING Bus 2 (Gen 2) at 82185 and 98.50 MW
-  Keeping SWING Bus 2 (Gen 2) at 82485 and 98.60 MW
-  Keeping SWING Bus 2 (Gen 2) at 82785 and 99.83 MW
-  Keeping SWING Bus 2 (Gen 2) at 83085 and 93.34 MW
-  Keeping SWING Bus 2 (Gen 2) at 83385 and 93.90 MW
-  Keeping SWING Bus 2 (Gen 2) at 83685 and 95.06 MW
-  Keeping SWING Bus 2 (Gen 2) at 83985 and 94.43 MW
-  Keeping SWING Bus 2 (Gen 2) at 84285 and 92.86 MW
-  Keeping SWING Bus 2 (Gen 2) at 84585 and 90.23 MW
-  Keeping SWING Bus 2 (Gen 2) at 84885 and 89.85 MW
-  Keeping SWING Bus 2 (Gen 2) at 85185 and 91.99 MW
-  Keeping SWING Bus 2 (Gen 2) at 85485 and 90.35 MW
-  Keeping SWING Bus 2 (Gen 2) at 85785 and 93.21 MW
-  Keeping SWING Bus 2 (Gen 2) at 86085 and 89.86 MW
-  Keeping SWING Bus 2 (Gen 2) at 86385 and 87.51 MW
-  Keeping SWING Bus 2 (Gen 2) at 86685 and 85.27 MW
-  Keeping SWING Bus 2 (Gen 2) at 86985 and 81.81 MW
-  Keeping SWING Bus 2 (Gen 2) at 87285 and 81.13 MW
-  Keeping SWING Bus 2 (Gen 2) at 87585 and 80.62 MW
-  Keeping SWING Bus 2 (Gen 2) at 87885 and 81.35 MW
-  Keeping SWING Bus 2 (Gen 2) at 88185 and 80.06 MW
-  Keeping SWING Bus 2 (Gen 2) at 88485 and 78.97 MW
-  Keeping SWING Bus 2 (Gen 2) at 88785 and 79.69 MW
-  Keeping SWING Bus 2 (Gen 2) at 89085 and 78.48 MW
-  Keeping SWING Bus 2 (Gen 2) at 89385 and 78.38 MW
-  Keeping SWING Bus 2 (Gen 2) at 89685 and 77.68 MW
-  Keeping SWING Bus 2 (Gen 2) at 89985 and 77.12 MW
-  Keeping SWING Bus 2 (Gen 2) at 90285 and 77.16 MW
-  Keeping SWING Bus 2 (Gen 2) at 90585 and 77.76 MW
-  Keeping SWING Bus 2 (Gen 2) at 90885 and 76.98 MW
-  Keeping SWING Bus 2 (Gen 2) at 91185 and 77.01 MW
-  Keeping SWING Bus 2 (Gen 2) at 91485 and 76.90 MW
-  Keeping SWING Bus 2 (Gen 2) at 91785 and 76.71 MW
-  Keeping SWING Bus 2 (Gen 2) at 92085 and 76.87 MW
-  Keeping SWING Bus 2 (Gen 2) at 92385 and 76.65 MW
-  Keeping SWING Bus 2 (Gen 2) at 92685 and 76.91 MW
-  Keeping SWING Bus 2 (Gen 2) at 92985 and 76.78 MW
-  Keeping SWING Bus 2 (Gen 2) at 93285 and 76.29 MW
-  Keeping SWING Bus 2 (Gen 2) at 93585 and 76.46 MW
-  Keeping SWING Bus 2 (Gen 2) at 93885 and 76.36 MW
-  Keeping SWING Bus 2 (Gen 2) at 94185 and 76.07 MW
-  Keeping SWING Bus 2 (Gen 2) at 94485 and 76.08 MW
-  Keeping SWING Bus 2 (Gen 2) at 94785 and 76.14 MW
-  Keeping SWING Bus 2 (Gen 2) at 95085 and 76.25 MW
-  Keeping SWING Bus 2 (Gen 2) at 95385 and 76.18 MW
-  Keeping SWING Bus 2 (Gen 2) at 95685 and 76.26 MW
-  Keeping SWING Bus 2 (Gen 2) at 95985 and 76.09 MW
-  Keeping SWING Bus 2 (Gen 2) at 96285 and 75.97 MW
-  Keeping SWING Bus 2 (Gen 2) at 96585 and 76.02 MW
-  Keeping SWING Bus 2 (Gen 2) at 96885 and 76.02 MW
-  Keeping SWING Bus 2 (Gen 2) at 97185 and 75.90 MW
-  Keeping SWING Bus 2 (Gen 2) at 97485 and 76.26 MW
-  Keeping SWING Bus 2 (Gen 2) at 97785 and 76.18 MW
-  Keeping SWING Bus 2 (Gen 2) at 98085 and 76.25 MW
-  Keeping SWING Bus 2 (Gen 2) at 98385 and 76.04 MW
-  Keeping SWING Bus 2 (Gen 2) at 98685 and 76.25 MW
-  Keeping SWING Bus 2 (Gen 2) at 98985 and 75.93 MW
-  Keeping SWING Bus 2 (Gen 2) at 99285 and 75.97 MW
-  Keeping SWING Bus 2 (Gen 2) at 99585 and 76.21 MW
-  Keeping SWING Bus 2 (Gen 2) at 99885 and 76.25 MW
-  Keeping SWING Bus 2 (Gen 2) at 100185 and 76.03 MW
-  Keeping SWING Bus 2 (Gen 2) at 100485 and 76.35 MW
-  Keeping SWING Bus 2 (Gen 2) at 100785 and 76.10 MW
-  Keeping SWING Bus 2 (Gen 2) at 101085 and 76.14 MW
-  Keeping SWING Bus 2 (Gen 2) at 101385 and 75.96 MW
-  Keeping SWING Bus 2 (Gen 2) at 101685 and 76.12 MW
-  Keeping SWING Bus 2 (Gen 2) at 101985 and 76.34 MW
-  Keeping SWING Bus 2 (Gen 2) at 102285 and 76.07 MW
-  Keeping SWING Bus 2 (Gen 2) at 102585 and 76.10 MW
-  Keeping SWING Bus 2 (Gen 2) at 102885 and 76.09 MW
-  Keeping SWING Bus 2 (Gen 2) at 103185 and 76.27 MW
-  Keeping SWING Bus 2 (Gen 2) at 103485 and 76.28 MW
-  Keeping SWING Bus 2 (Gen 2) at 103785 and 76.23 MW
-  Keeping SWING Bus 2 (Gen 2) at 104085 and 76.32 MW
-  Keeping SWING Bus 2 (Gen 2) at 104385 and 76.46 MW
-  Keeping SWING Bus 2 (Gen 2) at 104685 and 76.45 MW
-  Keeping SWING Bus 2 (Gen 2) at 104985 and 76.46 MW
-  Keeping SWING Bus 2 (Gen 2) at 105285 and 81.23 MW
-  Keeping SWING Bus 2 (Gen 2) at 105585 and 80.71 MW
-  Keeping SWING Bus 2 (Gen 2) at 105885 and 81.63 MW
-  Keeping SWING Bus 2 (Gen 2) at 106185 and 81.81 MW
-  Keeping SWING Bus 2 (Gen 2) at 106485 and 82.32 MW
-  Keeping SWING Bus 2 (Gen 2) at 106785 and 81.83 MW
-  Keeping SWING Bus 2 (Gen 2) at 107085 and 81.65 MW
-  Keeping SWING Bus 2 (Gen 2) at 107385 and 82.07 MW
-  Keeping SWING Bus 2 (Gen 2) at 107685 and 82.62 MW
-  Keeping SWING Bus 2 (Gen 2) at 107985 and 82.89 MW
-  Keeping SWING Bus 2 (Gen 2) at 108285 and 132.61 MW
-  Keeping SWING Bus 2 (Gen 2) at 108585 and 133.53 MW
-  Keeping SWING Bus 2 (Gen 2) at 108885 and 137.91 MW
-  Keeping SWING Bus 2 (Gen 2) at 109185 and 137.26 MW
-  Keeping SWING Bus 2 (Gen 2) at 109485 and 137.77 MW
-  Keeping SWING Bus 2 (Gen 2) at 109785 and 138.32 MW
-  Keeping SWING Bus 2 (Gen 2) at 110085 and 140.61 MW
-  Keeping SWING Bus 2 (Gen 2) at 110385 and 142.72 MW
-  Keeping SWING Bus 2 (Gen 2) at 110685 and 144.13 MW
-  Keeping SWING Bus 2 (Gen 2) at 110985 and 143.49 MW
-  Keeping SWING Bus 2 (Gen 2) at 111285 and 146.85 MW
-  Keeping SWING Bus 2 (Gen 2) at 111585 and 145.73 MW
-  Keeping SWING Bus 2 (Gen 2) at 111885 and 148.14 MW
-  Keeping SWING Bus 2 (Gen 2) at 112185 and 150.64 MW
-  Keeping SWING Bus 2 (Gen 2) at 112485 and 163.86 MW
-  Keeping SWING Bus 2 (Gen 2) at 112785 and 166.22 MW
-  Keeping SWING Bus 2 (Gen 2) at 113085 and 169.64 MW
-  Keeping SWING Bus 2 (Gen 2) at 113385 and 169.55 MW
-  Keeping SWING Bus 2 (Gen 2) at 113685 and 167.96 MW
-  Keeping SWING Bus 2 (Gen 2) at 113985 and 171.80 MW
-  Keeping SWING Bus 2 (Gen 2) at 114285 and 172.23 MW
-  Keeping SWING Bus 2 (Gen 2) at 114585 and 175.08 MW
-  Keeping SWING Bus 2 (Gen 2) at 114885 and 175.68 MW
-  Keeping SWING Bus 2 (Gen 2) at 115185 and 177.98 MW
-  Keeping SWING Bus 2 (Gen 2) at 115485 and 179.13 MW
-  Switching to SWING Bus 9 (Gen 4) at 115785 and 181.56 MW
-  Switching to SWING Bus 9 (Gen 4) at 116085 and 183.13 MW
-  Switching to SWING Bus 9 (Gen 4) at 116385 and 185.71 MW
-  Switching to SWING Bus 9 (Gen 4) at 116685 and 186.73 MW
-  Switching to SWING Bus 9 (Gen 4) at 116985 and 183.85 MW
-  Switching to SWING Bus 9 (Gen 4) at 117285 and 190.09 MW
-  Switching to SWING Bus 9 (Gen 4) at 117585 and 190.26 MW
-  Switching to SWING Bus 9 (Gen 4) at 117885 and 189.77 MW
-  Switching to SWING Bus 9 (Gen 4) at 118185 and 188.16 MW
-  Switching to SWING Bus 9 (Gen 4) at 118485 and 191.06 MW
-  Switching to SWING Bus 9 (Gen 4) at 118785 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 119085 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 119385 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 119685 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 119985 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 120285 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 120585 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 120885 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 121185 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 121485 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 121785 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 122085 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 122385 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 122685 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 122985 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 123285 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 123585 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 123885 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 124185 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 124485 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 124785 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 125085 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 125385 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 125685 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 125985 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 126285 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 126585 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 126885 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 127185 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 127485 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 127785 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 128085 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 128385 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 128685 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 128985 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 129285 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 129585 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 129885 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 130185 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 130485 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 130785 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 131085 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 131385 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 131685 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 131985 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 132285 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 132585 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 132885 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 133185 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 133485 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 133785 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 134085 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 134385 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 134685 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 134985 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 135285 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 135585 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 135885 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 136185 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 136485 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 136785 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 137085 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 137385 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 137685 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 137985 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 138285 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 138585 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 138885 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 139185 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 139485 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 139785 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 140085 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 140385 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 140685 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 140985 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 141285 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 141585 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 141885 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 142185 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 142485 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 142785 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 143085 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 143385 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 143685 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 143985 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 144285 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 144585 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 144885 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 145185 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 145485 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 145785 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 146085 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 146385 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 146685 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 146985 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 147285 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 147585 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 147885 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 148185 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 148485 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 148785 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 149085 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 149385 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 149685 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 149985 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 150285 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 150585 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 150885 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 151185 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 151485 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 151785 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 152085 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 152385 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 152685 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 152985 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 153285 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 153585 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 153885 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 154185 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 154485 and 192.00 MW
-  Switching to SWING Bus 9 (Gen 4) at 154785 and 192.00 MW
-  Keeping SWING Bus 2 (Gen 2) at 155085 and 131.37 MW
-  Keeping SWING Bus 2 (Gen 2) at 155385 and 132.00 MW
-  Keeping SWING Bus 2 (Gen 2) at 155685 and 123.04 MW
-  Keeping SWING Bus 2 (Gen 2) at 155985 and 125.21 MW
-  Keeping SWING Bus 2 (Gen 2) at 156285 and 124.97 MW
-  Keeping SWING Bus 2 (Gen 2) at 156585 and 121.67 MW
-  Keeping SWING Bus 2 (Gen 2) at 156885 and 121.50 MW
-  Keeping SWING Bus 2 (Gen 2) at 157185 and 122.92 MW
-  Keeping SWING Bus 2 (Gen 2) at 157485 and 120.54 MW
-  Keeping SWING Bus 2 (Gen 2) at 157785 and 122.81 MW
-  Keeping SWING Bus 2 (Gen 2) at 158085 and 120.97 MW
-  Keeping SWING Bus 2 (Gen 2) at 158385 and 120.36 MW
-  Keeping SWING Bus 2 (Gen 2) at 158685 and 120.34 MW
-  Keeping SWING Bus 2 (Gen 2) at 158985 and 119.16 MW
-  Keeping SWING Bus 2 (Gen 2) at 159285 and 110.59 MW
-  Keeping SWING Bus 2 (Gen 2) at 159585 and 113.01 MW
-  Keeping SWING Bus 2 (Gen 2) at 159885 and 115.56 MW
-  Keeping SWING Bus 2 (Gen 2) at 160185 and 118.95 MW
-  Keeping SWING Bus 2 (Gen 2) at 160485 and 117.57 MW
-  Keeping SWING Bus 2 (Gen 2) at 160785 and 118.96 MW
-  Keeping SWING Bus 2 (Gen 2) at 161085 and 118.37 MW
-  Keeping SWING Bus 2 (Gen 2) at 161385 and 115.85 MW
-  Keeping SWING Bus 2 (Gen 2) at 161685 and 111.78 MW
-  Keeping SWING Bus 2 (Gen 2) at 161985 and 110.55 MW
-  Keeping SWING Bus 2 (Gen 2) at 162285 and 111.29 MW
-  Keeping SWING Bus 2 (Gen 2) at 162585 and 114.27 MW
-  Keeping SWING Bus 2 (Gen 2) at 162885 and 114.75 MW
-  Keeping SWING Bus 2 (Gen 2) at 163185 and 112.45 MW
-  Keeping SWING Bus 2 (Gen 2) at 163485 and 114.09 MW
-  Keeping SWING Bus 2 (Gen 2) at 163785 and 114.03 MW
-  Keeping SWING Bus 2 (Gen 2) at 164085 and 112.68 MW
-  Keeping SWING Bus 2 (Gen 2) at 164385 and 108.68 MW
-  Keeping SWING Bus 2 (Gen 2) at 164685 and 108.52 MW
-  Keeping SWING Bus 2 (Gen 2) at 164985 and 105.88 MW
-  Keeping SWING Bus 2 (Gen 2) at 165285 and 103.37 MW
-  Keeping SWING Bus 2 (Gen 2) at 165585 and 105.21 MW
-  Keeping SWING Bus 2 (Gen 2) at 165885 and 105.78 MW
-  Keeping SWING Bus 2 (Gen 2) at 166185 and 103.81 MW
-  Keeping SWING Bus 2 (Gen 2) at 166485 and 102.45 MW
-  Keeping SWING Bus 2 (Gen 2) at 166785 and 100.87 MW
-  Keeping SWING Bus 2 (Gen 2) at 167085 and 102.25 MW
-  Keeping SWING Bus 2 (Gen 2) at 167385 and 98.11 MW
-  Keeping SWING Bus 2 (Gen 2) at 167685 and 97.35 MW
-  Keeping SWING Bus 2 (Gen 2) at 167985 and 96.92 MW
-  Keeping SWING Bus 2 (Gen 2) at 168285 and 95.80 MW
-  Keeping SWING Bus 2 (Gen 2) at 168585 and 94.79 MW
-  Keeping SWING Bus 2 (Gen 2) at 168885 and 90.50 MW
-  Keeping SWING Bus 2 (Gen 2) at 169185 and 91.26 MW
-  Keeping SWING Bus 2 (Gen 2) at 169485 and 92.85 MW
-  Keeping SWING Bus 2 (Gen 2) at 169785 and 91.54 MW
-  Keeping SWING Bus 2 (Gen 2) at 170085 and 91.59 MW
-  Keeping SWING Bus 2 (Gen 2) at 170385 and 90.51 MW
-  Keeping SWING Bus 2 (Gen 2) at 170685 and 90.54 MW
-  Keeping SWING Bus 2 (Gen 2) at 170985 and 89.12 MW
-  Keeping SWING Bus 2 (Gen 2) at 171285 and 85.30 MW
-  Keeping SWING Bus 2 (Gen 2) at 171585 and 85.54 MW
-  Keeping SWING Bus 2 (Gen 2) at 171885 and 85.75 MW
-  Keeping SWING Bus 2 (Gen 2) at 172185 and 83.89 MW
-  Keeping SWING Bus 2 (Gen 2) at 172485 and 83.29 MW
-  Keeping SWING Bus 2 (Gen 2) at 172785 and 82.24 MW
-breaking out at 172800
-writing metrics
-closing files
-finalizing HELICS
-Resource usage:
-  User time                 (ru_utime  ) = 245.674146
-  System time               (ru_stime  ) = 15.99221
-  Max. Resident Set Size    (ru_maxrss ) = 157272
-  Shared Memory Size        (ru_ixrss  ) = 0
-  Unshared Memory Size      (ru_idrss  ) = 0
-  Stack Size                (ru_isrss  ) = 0
-  Block inputs              (ru_inblock) = 0
-  Block outputs             (ru_oublock) = 5016
+  Keeping SWING Bus 2 (Gen 2) at 12285 and 71.68 MW
+  Keeping SWING Bus 2 (Gen 2) at 12585 and 72.14 MW
+  Keeping SWING Bus 2 (Gen 2) at 12885 and 71.49 MW
+  Keeping SWING Bus 2 (Gen 2) at 13185 and 72.18 MW
+  Keeping SWING Bus 2 (Gen 2) at 13485 and 71.97 MW
+  Keeping SWING Bus 2 (Gen 2) at 13785 and 71.98 MW
+  Keeping SWING Bus 2 (Gen 2) at 14085 and 72.93 MW
+  Keeping SWING Bus 2 (Gen 2) at 14385 and 72.25 MW
+  Keeping SWING Bus 2 (Gen 2) at 14685 and 71.71 MW
+  Keeping SWING Bus 2 (Gen 2) at 14985 and 71.86 MW
+  Keeping SWING Bus 2 (Gen 2) at 15285 and 72.04 MW
+  Keeping SWING Bus 2 (Gen 2) at 15585 and 71.90 MW
+  Keeping SWING Bus 2 (Gen 2) at 15885 and 71.23 MW
+  Keeping SWING Bus 2 (Gen 2) at 16185 and 71.72 MW
+  Keeping SWING Bus 2 (Gen 2) at 16485 and 72.41 MW
+  Keeping SWING Bus 2 (Gen 2) at 16785 and 72.67 MW
+  Keeping SWING Bus 2 (Gen 2) at 17085 and 72.02 MW
+  Keeping SWING Bus 2 (Gen 2) at 17385 and 71.91 MW
+  Keeping SWING Bus 2 (Gen 2) at 17685 and 71.89 MW
+  Keeping SWING Bus 2 (Gen 2) at 17985 and 72.63 MW
+  Keeping SWING Bus 2 (Gen 2) at 18285 and 72.60 MW
+  Keeping SWING Bus 2 (Gen 2) at 18585 and 72.43 MW
+  Keeping SWING Bus 2 (Gen 2) at 18885 and 74.76 MW
+  Keeping SWING Bus 2 (Gen 2) at 19185 and 74.08 MW
+  Keeping SWING Bus 2 (Gen 2) at 19485 and 74.77 MW
+  Keeping SWING Bus 2 (Gen 2) at 19785 and 74.44 MW
+  Keeping SWING Bus 2 (Gen 2) at 20085 and 74.33 MW
+  Keeping SWING Bus 2 (Gen 2) at 20385 and 74.16 MW
+  Keeping SWING Bus 2 (Gen 2) at 20685 and 74.21 MW
+  Keeping SWING Bus 2 (Gen 2) at 20985 and 74.53 MW
+  Keeping SWING Bus 2 (Gen 2) at 21285 and 74.51 MW
+  Keeping SWING Bus 2 (Gen 2) at 21585 and 74.47 MW
+  Keeping SWING Bus 2 (Gen 2) at 21885 and 74.73 MW
+  Keeping SWING Bus 2 (Gen 2) at 22185 and 74.62 MW
+  Keeping SWING Bus 2 (Gen 2) at 22485 and 75.53 MW
+  Keeping SWING Bus 2 (Gen 2) at 22785 and 76.14 MW
+  Keeping SWING Bus 2 (Gen 2) at 23085 and 75.43 MW
+  Keeping SWING Bus 2 (Gen 2) at 23385 and 76.31 MW
+  Keeping SWING Bus 2 (Gen 2) at 23685 and 76.43 MW
+  Keeping SWING Bus 2 (Gen 2) at 23985 and 77.16 MW
+  Keeping SWING Bus 2 (Gen 2) at 24285 and 77.60 MW
+  Keeping SWING Bus 2 (Gen 2) at 24585 and 77.74 MW
+  Keeping SWING Bus 2 (Gen 2) at 24885 and 78.88 MW
+  Keeping SWING Bus 2 (Gen 2) at 25185 and 80.20 MW
+  Keeping SWING Bus 2 (Gen 2) at 25485 and 79.61 MW
+  Keeping SWING Bus 2 (Gen 2) at 25785 and 81.05 MW
+  Keeping SWING Bus 2 (Gen 2) at 26085 and 89.44 MW
+  Keeping SWING Bus 2 (Gen 2) at 26385 and 91.62 MW
+  Keeping SWING Bus 2 (Gen 2) at 26685 and 91.88 MW
+  Keeping SWING Bus 2 (Gen 2) at 26985 and 93.77 MW
+  Keeping SWING Bus 2 (Gen 2) at 27285 and 93.40 MW
+  Keeping SWING Bus 2 (Gen 2) at 27585 and 95.40 MW
+  Keeping SWING Bus 2 (Gen 2) at 27885 and 95.82 MW
+  Keeping SWING Bus 2 (Gen 2) at 28185 and 97.89 MW
+  Keeping SWING Bus 2 (Gen 2) at 28485 and 99.29 MW
+  Keeping SWING Bus 2 (Gen 2) at 28785 and 101.71 MW
+  Keeping SWING Bus 2 (Gen 2) at 29085 and 99.33 MW
+  Keeping SWING Bus 2 (Gen 2) at 29385 and 99.74 MW
+  Keeping SWING Bus 2 (Gen 2) at 29685 and 104.52 MW
+  Keeping SWING Bus 2 (Gen 2) at 29985 and 104.91 MW
+  Keeping SWING Bus 2 (Gen 2) at 30285 and 106.11 MW
+  Keeping SWING Bus 2 (Gen 2) at 30585 and 105.56 MW
+  Keeping SWING Bus 2 (Gen 2) at 30885 and 113.26 MW
+  Keeping SWING Bus 2 (Gen 2) at 31185 and 111.68 MW
+  Keeping SWING Bus 2 (Gen 2) at 31485 and 115.21 MW
+  Keeping SWING Bus 2 (Gen 2) at 31785 and 109.63 MW
+  Keeping SWING Bus 2 (Gen 2) at 32085 and 115.50 MW
+  Keeping SWING Bus 2 (Gen 2) at 32385 and 117.23 MW
+  Keeping SWING Bus 2 (Gen 2) at 32685 and 107.75 MW
+  Keeping SWING Bus 2 (Gen 2) at 32985 and 109.68 MW
+  Keeping SWING Bus 2 (Gen 2) at 33285 and 116.28 MW
+  Keeping SWING Bus 2 (Gen 2) at 33585 and 115.96 MW
+  Keeping SWING Bus 2 (Gen 2) at 33885 and 114.31 MW
+  Keeping SWING Bus 2 (Gen 2) at 34185 and 113.97 MW
+  Keeping SWING Bus 2 (Gen 2) at 34485 and 114.19 MW
+  Keeping SWING Bus 2 (Gen 2) at 34785 and 118.57 MW
+  Keeping SWING Bus 2 (Gen 2) at 35085 and 118.81 MW
+  Keeping SWING Bus 2 (Gen 2) at 35385 and 115.14 MW
+  Keeping SWING Bus 2 (Gen 2) at 35685 and 120.81 MW
+  Keeping SWING Bus 2 (Gen 2) at 35985 and 119.32 MW
+  Keeping SWING Bus 2 (Gen 2) at 36285 and 115.38 MW
+  Keeping SWING Bus 2 (Gen 2) at 36585 and 120.89 MW
+  Keeping SWING Bus 2 (Gen 2) at 36885 and 118.84 MW
+  Keeping SWING Bus 2 (Gen 2) at 37185 and 122.88 MW
+  Keeping SWING Bus 2 (Gen 2) at 37485 and 119.98 MW
+  Keeping SWING Bus 2 (Gen 2) at 37785 and 123.24 MW
+  Keeping SWING Bus 2 (Gen 2) at 38085 and 127.46 MW
+  Keeping SWING Bus 2 (Gen 2) at 38385 and 126.58 MW
+  Keeping SWING Bus 2 (Gen 2) at 38685 and 133.76 MW
+  Keeping SWING Bus 2 (Gen 2) at 38985 and 132.62 MW
+  Keeping SWING Bus 2 (Gen 2) at 39285 and 136.08 MW
+  Keeping SWING Bus 2 (Gen 2) at 39585 and 138.72 MW
+  Keeping SWING Bus 2 (Gen 2) at 39885 and 140.00 MW
+  Keeping SWING Bus 2 (Gen 2) at 40185 and 139.02 MW
+  Keeping SWING Bus 2 (Gen 2) at 40485 and 144.83 MW
+  Keeping SWING Bus 2 (Gen 2) at 40785 and 139.09 MW
+  Keeping SWING Bus 2 (Gen 2) at 41085 and 146.35 MW
+  Keeping SWING Bus 2 (Gen 2) at 41385 and 147.19 MW
+  Keeping SWING Bus 2 (Gen 2) at 41685 and 152.28 MW
+  Keeping SWING Bus 2 (Gen 2) at 41985 and 152.70 MW
+  Keeping SWING Bus 2 (Gen 2) at 42285 and 153.38 MW
+  Keeping SWING Bus 2 (Gen 2) at 42585 and 154.95 MW
+  Keeping SWING Bus 2 (Gen 2) at 42885 and 145.45 MW
+  Keeping SWING Bus 2 (Gen 2) at 43185 and 159.73 MW
+  Keeping SWING Bus 2 (Gen 2) at 43485 and 155.54 MW
+  Keeping SWING Bus 2 (Gen 2) at 43785 and 160.92 MW
+  Keeping SWING Bus 2 (Gen 2) at 44085 and 158.41 MW
+SIGINT: Interrupted by Ctrl-C.
+SIGINT: Interrupted by Ctrl-C.
+SIGINT: Interrupted by Ctrl-C.
