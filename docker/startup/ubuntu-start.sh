@@ -102,6 +102,7 @@ echo 'export PATH=/opt/tesp/PreProcess:/opt/tesp/PostProcess:$PATH' >> ~/.bashrc
 # tesp chokes on timezone for some reason..., so unset it
 echo "unset TZ"  >> ~/.bashrc
 unset TZ
+source ~/.bashrc
 
 # install tesp manually
 echo "------------------------------------------------------------------"

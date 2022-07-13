@@ -2,7 +2,7 @@
 #
 # docker file for creating hyperledger fabric ubuntu container
 #
-FROM ubuntu:latest
+FROM ubuntu:focal
 
 # environment variables
 ENV USER="root"
@@ -113,6 +113,7 @@ RUN apt-get update && \
 # up on the container, set time zone, then start bash
 
 CMD chmod +x $STARTUP_DIR/ubuntu-start.sh ; \
+    sed -i -e 's/\r$//' $STARTUP_DIR/ubuntu-start.sh ;\
     $STARTUP_DIR/ubuntu-start.sh ; \
     # mv github desktop to startup dir
     mv $GITHUB_DESKTOP_FILE $STARTUP_DIR ; \
