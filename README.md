@@ -165,3 +165,6 @@ python3 plotFig.py
 ![image](./doc_images/result-PET-RL.png)
 ![image](./doc_images/result-PET-RL-2.png)
 <center>PET-RL results</center>
+
+## Related Publications
+1. Li, Yuanliang, et al. "PEMT-CoSim: A Co-Simulation Platform for Packetized Energy Management and Trading in Distributed Energy Systems." 2022 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm). IEEE, 2022.
