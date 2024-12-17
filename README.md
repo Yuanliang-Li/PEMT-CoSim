@@ -6,14 +6,14 @@ A Co-Simulation Platform For Packetized Energy Management and Trading
 PEMT-CoSim is a co-simulation platform for packetized energy management (PEM) and trading (PET) in smart grids. It is developed based on the open-source [Transactive Energy Simulation Platform (TESP, v1.0.0)](https://tesp.readthedocs.io/en/latest/TESP_Overview.html#). 
 
 
-Packetized Energy (PE) is a gird management technology which breaks the power into fixed-duration/fixed power "energy packet" with a "request-reply" scheme. Prosumers (both suppler and consumer) can request a packet for their load/generator to consume/provide. A central coordinator will accept/reject the request based on grid condition. There are two types of PE, Packetized Energy Management (PEM) and Packetized Energy Trading (PET). Packetized Energy Management (PEM) is a load dispatch program which uses a PEM controller to have houses' flexible load to request a packet with a probability, and the central coordinator will accept/reject the request by comparing the the request load with a balancing signal. PET allows prosumers to bid for a packet in a double-auction market. The cleared price and quantity determine whether bids are accepted or rejected for prosumers. 
+Packetized Energy (PE) is a grid management technology that breaks the power into a fixed-duration/fixed power "energy packet" with a "request-reply" scheme. Prosumers (both supplier and consumer) can request a packet for their load/generator to consume/provide. A central coordinator will accept/reject the request based on grid conditions. There are two types of PE, Packetized Energy Management (PEM) and Packetized Energy Trading (PET). Packetized Energy Management (PEM) is a load dispatch program that uses a PEM controller to have houses' flexible load to request a packet with a probability, and the central coordinator will accept/reject the request by comparing the request load with a balancing signal. PET allows prosumers to bid for a packet in a double-auction market. The cleared price and quantity determine whether bids are accepted or rejected for prosumers. 
 
 PEMT-CoSim utilizes the TESP's HELICS co-simulation framework to enable coordination between a number of dedicated simulators/programs (named "federate" under the HECLIS framework): GridLAB-D federate (distribution system simulator),  PyPower federate (transmission system simulator), EnergyPlus federate(building simulator), Wether federate (weather data generator), Substation federate (Implemented the processes for PET and PEM). 
 
 ![image](./doc_images/co-simulation-platform.png)
 <center>PEMT-CoSim Architecture</center>
 
-Substation is main federate which implements the PEM and PET using developed API, including PEM-related modules (PEM Controllers, PEM Coordinator), PET-related modules (PET Prosumer, PEM Market). Moreover, the AI modules implemented the reinforcement learning algorithm that can be used to optimize the biding strategies for prosumers.
+The Substation is the main federate which implements the PEM and PET using developed API, including PEM-related modules (PEM Controllers, PEM Coordinator), and PET-related modules (PET Prosumer, PEM Market). Moreover, the AI modules implemented the reinforcement learning algorithm that can be used to optimize the bidding strategies for prosumers.
 
 
 ## 2. Installation
@@ -22,7 +22,7 @@ PEMT-CoSim runs natively on Linux. However, for better deployment of this projec
 ### 2.1 Installation via Docker 
 Before the installation, the [Docker or Docker Desktop](https://www.docker.com/products/docker-desktop), and [Git](https://git-scm.com/) should be installed. 
 
-- Clone the PEMT-CoSim Project from Github (https://github.com/Yuanliang-Li/PEMT-CoSim)
+- Clone the PEMT-CoSim Project from GitHub (https://github.com/Yuanliang-Li/PEMT-CoSim)
     > git clone https://github.com/Yuanliang-Li/PEMT-CoSim.git
     >
 - Open a command prompt in Linux/Windows/MacOS, and cd into the "docker" directory of the PEMT-CoSim project.
@@ -35,7 +35,7 @@ Before the installation, the [Docker or Docker Desktop](https://www.docker.com/p
     > docker run -it --privileged -p 2222:22 -p 5951:5901 --mount type=bind,source= /YOURDIRECTORY/To/PEMT-CoSim,destination=/PEMT-CoSim --name ubuntu-pemt ubuntu-vnc
     >
     When the 'docker run' command runs, the container starts and executes a startup .sh script that will set up the environment for development. \
-    The "--mount" option can make a file or directory on the host machine mounted into the container. So, after the installation you can make development/edition/post-processing on your project in your host machine, and run the co-simulation in the container.
+    The "--mount" option can make a file or directory on the host machine mounted into the container. So, after the installation, you can develop/edit/post-process your project on your host machine and run the co-simulation in the container.
 - Install TESP by typing when building the container
     > /root/startup/tesp-1.0.0-linux-x64-installer.run
     >
